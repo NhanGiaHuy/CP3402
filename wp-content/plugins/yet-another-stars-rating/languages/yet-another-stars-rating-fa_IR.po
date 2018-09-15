@@ -1,0 +1,1222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YASR lenguages\n"
+"POT-Creation-Date: 2016-02-08 13:40+0100\n"
+"PO-Revision-Date: 2016-02-08 13:40+0100\n"
+"Last-Translator: Dario <thedudoworld@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../lib\n"
+
+#: ../yasr-metabox-top-right.php:75 ../yasr-metabox-top-right.php:109
+msgid "Rate this article / item"
+msgstr "به این مقاله یا به این محصول رای دهید"
+
+#: ../yasr-metabox-top-right.php:81 ../lib/yasr-shortcode-functions.php:504
+#: ../lib/yasr-functions.php:55
+msgid "Loading, please wait"
+msgstr "در حال بارگذاری, خواهشا صبر کنید"
+
+#: ../yasr-metabox-top-right.php:157
+msgid "Save Vote"
+msgstr "ذخیره رای"
+
+#: ../yasr-metabox-top-right.php:176
+msgid "This review is about a..."
+msgstr "این مقاله درباره چیست؟"
+
+#: ../yasr-metabox-top-right.php:181 ../yasr-metabox-multiple-rating.php:46
+#: ../lib/yasr-settings-functions.php:656
+msgid "Select"
+msgstr "انتخاب"
+
+#: ../yasr-metabox-top-right.php:199
+msgid ""
+"Remember to insert this shortcode <strong>[yasr_overall_rating]</strong> "
+"where you want to display this rating"
+msgstr ""
+"بادتون باشه اگه در تنظیمات عمومی \"گذاشتن خودکار\" را روی بله تیک نزدید "
+"ازاین <strong>[yasr_overall_rating]</strong> شورت کات استفاده کنید و درون "
+"پست قرار دهید"
+
+#: ../yasr-settings-page.php:24 ../lib/yasr-functions.php:147
+#: ../lib/yasr-ajax-functions.php:45 ../lib/yasr-ajax-functions.php:142
+#: ../lib/yasr-ajax-functions.php:228 ../lib/yasr-ajax-functions.php:386
+#: ../lib/yasr-ajax-functions.php:797 ../lib/yasr-ajax-functions.php:1111
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید."
+
+#: ../yasr-settings-page.php:38
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../yasr-settings-page.php:82
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: ../yasr-settings-page.php:83
+msgid "Multi Sets"
+msgstr "نقد برسی چند گانه"
+
+#: ../yasr-settings-page.php:84
+#, fuzzy
+msgid "Aspect & Styles"
+msgstr "وارد کردن CSS و استایل های سفارسی"
+
+#: ../yasr-settings-page.php:86
+msgid "Extensions"
+msgstr ""
+
+#: ../yasr-settings-page.php:103 ../yasr-settings-page.php:263
+#: ../yasr-settings-page.php:294
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../yasr-settings-page.php:128
+msgid "Import Gd Star Rating"
+msgstr "اضافه کردن تنظیمات افزونه Gd Star Rating به این افزونه"
+
+#: ../yasr-settings-page.php:129
+msgid "I've found a previous installation of Gd Star Rating."
+msgstr "ما یک نسخه نصب شده قبلی از افزونه GD Star Rating پیدا کردیم."
+
+#: ../yasr-settings-page.php:129
+msgid "Do you want proceed to import data?"
+msgstr "آیا میخواهید این افزونه تنظیمات افزونه مورد نظر را دریافت کند؟"
+
+#: ../yasr-settings-page.php:131
+msgid "Yes, Begin Import"
+msgstr "بله دوباره شروع کن"
+
+#: ../yasr-settings-page.php:135
+msgid "Click on Proceed to import Gd Star Rating data."
+msgstr "روی گزینه ادامه بده کلیک کنید تا تنظیمات را از این افزونه دریافت کند."
+
+#: ../yasr-settings-page.php:138 ../yasr-settings-page.php:171
+msgid "Proceed"
+msgstr "ادامه بده"
+
+#: ../yasr-settings-page.php:160
+msgid "Manage GD Star Data"
+msgstr "ویرایش اطلاعات GD Star"
+
+#: ../yasr-settings-page.php:161
+msgid "Gd Star Rating has been already imported."
+msgstr "تنظیمات افزونه Gd Star Rating ذخیره شد."
+
+#: ../yasr-settings-page.php:162
+msgid "If you wish you can import it again, but"
+msgstr "اگه دوست دارید میتونید دوباره تنظیمات را دریافت کنید, اما"
+
+#: ../yasr-settings-page.php:162
+msgid "you will lose all data you've collect since the import!"
+msgstr "ممکنه اطلاعاتی را که جمع آوری کرده ایم از دست بدیم!"
+
+#: ../yasr-settings-page.php:164
+msgid "Ok, Import Again"
+msgstr "باشه, دوباره دریافت کن"
+
+#: ../yasr-settings-page.php:168
+msgid ""
+"Click on Proceed to import again Gd Star Rating data. This may take a while!"
+msgstr ""
+"روی ادامه کلیک کنید تا دوباره اطلاعات را دریافت کنیم. ممکنه کمی طول بکشد..."
+
+#: ../yasr-settings-page.php:205
+msgid "Manage Multi Set"
+msgstr "اداره کردن نقد و برسی چند گانه"
+
+#: ../yasr-settings-page.php:209
+msgid "What is a Multi Set?"
+msgstr "نقدو برسی چند گانه چیست؟"
+
+#: ../yasr-settings-page.php:214
+msgid ""
+"Multi Set allows you to insert a rate for each aspect about the product / "
+"local business / whetever you're reviewing, example in the image below."
+msgstr ""
+"نقد برسی چند گانه به شما اجازه میده تا به محصول  / بیزینس محلی / یا هر چیز "
+"دیگری امتیاز یا نقد و برسی کنید. به عنوان مثال در تصویر زیر می توانید ببینید."
+
+#: ../yasr-settings-page.php:218
+msgid ""
+"You can create up to 99 different Multi Set and each one can contain up to 9 "
+"different fields. Once you've saved it, you can insert the rates while "
+"typing your article in the box below the editor, as you can see in this "
+"image (click to see it larger)"
+msgstr ""
+"شما می توانید 99 تا نقد برسی متفاوت ایجاد کنید و برای هر یک از آنها 9 المان "
+"متفاوت بسازید, شما بعد از ذخیره کردن تنظیمات در قسمت نوشت ابزار بعد از اتمام "
+"نوشته مقاله در قسمت ادیتور یا نوشت ابزار روی ستاره کلیک کنید. همینطور که در "
+"عکس می بینید. ( برای دیدن بهتر روی عکس کلیک کنید)"
+
+#: ../yasr-settings-page.php:222
+msgid ""
+"In order to insert your Multi Sets into a post or page, you can either past "
+"the short code that will appear at the bottom of the box or just click on "
+"the star in the graphic editor and select \"Insert Multi Set\"."
+msgstr ""
+"برای اضافه کردن نقد برسی به پست در قسمت ایدتور روی ستاره کلیک کنید \"اگه "
+"میخواهید نقد برسی چند گانه وارد کنید, یکی را انتخاب کنید\"."
+
+#: ../yasr-settings-page.php:228
+msgid "Close this message"
+msgstr "این پیغام را ببند"
+
+#: ../yasr-settings-page.php:320
+#, fuzzy
+msgid "Extensions for Yet Another Stars Rating"
+msgstr "تنظیمات: Yet Another Stars Rating"
+
+#: ../yasr-settings-page.php:323
+msgid "Extensions add functionality to your Yasr installation"
+msgstr ""
+
+#: ../yasr-settings-page.php:338
+msgid ""
+"Start accepting reviews and ratings for your post or pages using Yasr User "
+"Reviews extension."
+msgstr ""
+
+#: ../yasr-settings-page.php:356 ../yasr-settings-page.php:394
+#: ../yasr-settings-page.php:432
+msgid "Get this extension"
+msgstr ""
+
+#: ../yasr-settings-page.php:376
+#, fuzzy
+msgid "Choose between ready to use image or upload your own!"
+msgstr "کاربر می توانید عکس و استایل ستاره ها را انتخاب و یا حتی آپلود کند"
+
+#: ../yasr-settings-page.php:414
+msgid "Unleash all the power of your rankings with just a click!"
+msgstr ""
+
+#: ../yasr-metabox-multiple-rating.php:35
+msgid "Choose wich set you want to use"
+msgstr "یکی از گزینه های ساخته شده را انتخاب کنید"
+
+#: ../lib/yasr-shortcode-functions.php:187
+#: ../lib/yasr-shortcode-functions.php:212
+msgid "You've already voted this article with"
+msgstr "شما به این مقاله قبلا رای داده اید با امتیاز"
+
+#: ../lib/yasr-shortcode-functions.php:237
+#: ../lib/yasr-shortcode-functions.php:533
+#, fuzzy
+msgid "You must sign in to vote"
+msgstr "شما برای رای دادن باید وارد شوید"
+
+#: ../lib/yasr-shortcode-functions.php:279 ../lib/yasr-ajax-functions.php:1300
+#: ../lib/yasr-ajax-functions.php:1308 ../lib/yasr-ajax-functions.php:1447
+msgid "Total: "
+msgstr "تعداد: "
+
+#: ../lib/yasr-shortcode-functions.php:279
+msgid "Average: "
+msgstr "میانگین: "
+
+#: ../lib/yasr-shortcode-functions.php:506
+msgid "Submit!"
+msgstr ""
+
+#: ../lib/yasr-shortcode-functions.php:512
+#, fuzzy
+msgid "Thank you for voting! "
+msgstr "از حمایت شما متشکریم!"
+
+#: ../lib/yasr-shortcode-functions.php:721
+msgid "Rating"
+msgstr "امتیاز ها"
+
+#: ../lib/yasr-shortcode-functions.php:735
+msgid "You don't have any votes stored"
+msgstr "شما رای ذخیره شده ای ندارید"
+
+#: ../lib/yasr-shortcode-functions.php:771
+#: ../lib/yasr-shortcode-functions.php:810
+msgid "Post / Page"
+msgstr "پست / صفحه"
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Order By"
+msgstr "سفارشی سازی بر اساس"
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Most Rated"
+msgstr "بیشترین امتیاز"
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Highest Rated"
+msgstr "بالاترین امتیاز"
+
+#: ../lib/yasr-shortcode-functions.php:790
+#: ../lib/yasr-shortcode-functions.php:825
+msgid "Total:"
+msgstr "تعداد:"
+
+#: ../lib/yasr-shortcode-functions.php:790
+#: ../lib/yasr-shortcode-functions.php:825
+msgid "Average"
+msgstr "میانگین"
+
+#: ../lib/yasr-shortcode-functions.php:802
+msgid "You've not enough data"
+msgstr "داده ای به اندازه کافی پیدا نشد!"
+
+#: ../lib/yasr-shortcode-functions.php:837
+msgid "You've not enought data"
+msgstr "داده ای به اندازه کافی پیدا نشد!"
+
+#: ../lib/yasr-shortcode-functions.php:922
+msgid ""
+"Problem while retrieving the top 5 most active reviewers. Did you publish "
+"any review?"
+msgstr ""
+"مشکلی در اجرای 5 نقد برسی برتر رخ داده است. آیا تا بحال نقد و برسی انجام "
+"داده و در پست انتشار داده اید؟"
+
+#: ../lib/yasr-shortcode-functions.php:990
+msgid ""
+"Problem while retrieving the top 10 active users chart. Are you sure you "
+"have votes to show?"
+msgstr ""
+"مشکلی در اجرای 10 کاربر فعال رخ داده است. آیا مطمینید رای برای نمایش وجود "
+"دارد؟"
+
+#: ../lib/yasr-shortcode-functions.php:1027
+#, php-format
+msgid "based on %d votes"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:68
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: ../lib/yasr-settings-functions.php:69
+msgid "Auto insert options"
+msgstr "گزینه های درج خودکار"
+
+#: ../lib/yasr-settings-functions.php:70
+msgid "Show \"Overall Rating\" in Archive Page?"
+msgstr "رای کلی را در صفحات آرشیو نمایش بدم؟"
+
+#: ../lib/yasr-settings-functions.php:71
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "رای کاربران را در صفحات آرشیو نمایش بدم؟"
+
+#: ../lib/yasr-settings-functions.php:72
+msgid "Insert custom text to show before / after stars"
+msgstr "می خواهید نوشته ای سفارسی برای قبل و بعد ستاره ها بنویسید؟"
+
+#: ../lib/yasr-settings-functions.php:73
+msgid "Do you want show stats for visitors votes?"
+msgstr "آیا میخواهید آماری از تعداد و شمارش امتیاز دهندگان نمایش داده شود ؟"
+
+#: ../lib/yasr-settings-functions.php:74
+msgid "Allow only logged in user to vote?"
+msgstr "چه کسانی مجاز به رای دادند هستند؟"
+
+#: ../lib/yasr-settings-functions.php:75
+#, fuzzy
+msgid "Rich snippet options"
+msgstr "قابلیت افزودن متا کد ها و ایندکس شدن در موتور های جستجو"
+
+#: ../lib/yasr-settings-functions.php:76
+msgid "How do you want to rate \"Overall Rating\"?"
+msgstr "دوست دارید نمایش \"رای کلی\" به جه صورت باشد؟"
+
+#: ../lib/yasr-settings-functions.php:90
+msgid "Use Auto Insert?"
+msgstr "گذاشتن خودکار؟"
+
+#: ../lib/yasr-settings-functions.php:96
+#: ../lib/yasr-settings-functions.php:180
+#: ../lib/yasr-settings-functions.php:200
+#: ../lib/yasr-settings-functions.php:244
+#: ../lib/yasr-settings-functions.php:270
+#: ../lib/yasr-settings-functions.php:304
+#: ../lib/yasr-settings-functions.php:359
+msgid "Yes"
+msgstr "بله"
+
+#: ../lib/yasr-settings-functions.php:110
+#: ../lib/yasr-settings-functions.php:185
+#: ../lib/yasr-settings-functions.php:205
+#: ../lib/yasr-settings-functions.php:249
+#: ../lib/yasr-settings-functions.php:275
+#: ../lib/yasr-settings-functions.php:309
+#: ../lib/yasr-settings-functions.php:364
+msgid "No"
+msgstr "خیر"
+
+#: ../lib/yasr-settings-functions.php:118
+msgid "What?"
+msgstr "به چه صورت قرار بدم؟"
+
+#: ../lib/yasr-settings-functions.php:123
+msgid "Overall Rating / Author Rating"
+msgstr "رای کلی / رای نویسنده"
+
+#: ../lib/yasr-settings-functions.php:127 ../lib/yasr-ajax-functions.php:524
+msgid "Visitor Votes"
+msgstr "رای کاربران"
+
+#: ../lib/yasr-settings-functions.php:131
+msgid "Both"
+msgstr "هردو"
+
+#: ../lib/yasr-settings-functions.php:137
+msgid "Where?"
+msgstr "کجا بزارمش؟"
+
+#: ../lib/yasr-settings-functions.php:142
+msgid "Before the post"
+msgstr "قبل پست"
+
+#: ../lib/yasr-settings-functions.php:146
+msgid "After the post"
+msgstr "بعد پست"
+
+#: ../lib/yasr-settings-functions.php:153
+msgid "Size"
+msgstr "اندازه"
+
+#: ../lib/yasr-settings-functions.php:159 ../lib/yasr-ajax-functions.php:514
+#: ../lib/yasr-ajax-functions.php:532
+msgid "Small"
+msgstr "کوچک"
+
+#: ../lib/yasr-settings-functions.php:164 ../lib/yasr-ajax-functions.php:515
+#: ../lib/yasr-ajax-functions.php:533
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../lib/yasr-settings-functions.php:169 ../lib/yasr-ajax-functions.php:516
+#: ../lib/yasr-ajax-functions.php:534
+msgid "Large"
+msgstr "بزرگ"
+
+#: ../lib/yasr-settings-functions.php:176
+msgid "Exclude Pages?"
+msgstr "در صفحات قرار ندم؟"
+
+#: ../lib/yasr-settings-functions.php:197
+msgid "Use only in custom post types?"
+msgstr "فقط از پست های سفارشی استفاده کن؟"
+
+#: ../lib/yasr-settings-functions.php:209
+msgid "You see this because you use custom post types."
+msgstr "شما این را می بینید چون از پست های سفارشی استفاده کرده اید."
+
+#: ../lib/yasr-settings-functions.php:211
+msgid "If you want to use auto insert only in custom post types, choose Yes"
+msgstr ""
+"اگر فقط میخواهید به صورت خودکار در پست های سفارشی استفاده کنید, بله را "
+"انتخاب کنید"
+
+#: ../lib/yasr-settings-functions.php:253
+msgid ""
+"If you enable this, \"Overall Rating\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"با فعال کردن این گزینه \"رای کلی\" فقط در پست ها و صفحات نمایش داده نخواهد "
+"شد. یعنی اینکه در صفحه اصلی, صفحات دسته بندی ها و صفحات آرشیو نیز نمایش داده "
+"میشود."
+
+#: ../lib/yasr-settings-functions.php:279
+msgid ""
+"If you enable this, \"Visitor Votes\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"با فعال کردن این گزینه \"رای کاربران\" فقط در پست ها و صفحات نمایش داده "
+"نخواهد شد. یعنی اینکه در صفحه اصلی, صفحات دسته بندی ها و صفحات آرشیو نیز "
+"نمایش داده میشود."
+
+#: ../lib/yasr-settings-functions.php:314
+msgid "Custom text to display before Overall Rating"
+msgstr "این نوشته قبل از رای کلی نمایش داده میشود"
+
+#: ../lib/yasr-settings-functions.php:319
+#, fuzzy
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "این نوشته قبل از رای کاربران نمایش داده میشود"
+
+#: ../lib/yasr-settings-functions.php:325
+#, fuzzy
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "این نوشته قبل از رای کاربران نمایش داده میشود"
+
+#: ../lib/yasr-settings-functions.php:330
+msgid "Custom text to display when a non logged user has already rated"
+msgstr "این قسمت موقعی نمایش داده میشود که کاربر ناشناسی قبلا رای داده باشد"
+
+#: ../lib/yasr-settings-functions.php:335
+msgid "Help"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:339
+msgid ""
+"In the first field you can use %overall_rating% pattern to show the overall "
+"rating."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:343
+msgid ""
+"In the Second and Third fields you can use %total_count% pattern to show the "
+"total count, and %average% pattern to show the average"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:382
+msgid "Allow only logged-in users"
+msgstr "فقط کاربران ثبت نام شده"
+
+#: ../lib/yasr-settings-functions.php:386
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "همه کس ( ثبت نام کرده و ناشناس )"
+
+#: ../lib/yasr-settings-functions.php:406
+#, fuzzy
+msgid "Which rich snippet do you want to use?"
+msgstr "ستاره ها به چه صورت در گوگل ایندکس شوند؟"
+
+#: ../lib/yasr-settings-functions.php:410
+msgid "Review Rating"
+msgstr "نمایش به صورت نقد برسی"
+
+#: ../lib/yasr-settings-functions.php:414
+msgid "Aggregate Rating"
+msgstr "نمایش به صورت رای کاربران و تعداد رای ها"
+
+#: ../lib/yasr-settings-functions.php:419
+msgid "What is this?"
+msgstr "این چی هست حالا ؟"
+
+#: ../lib/yasr-settings-functions.php:424
+msgid ""
+"If you select \"Review Rating\", your site will be indexed from search "
+"engines like this: "
+msgstr ""
+"اگر شما \"به صورت نقد برسی\" را انتخاب کنید, در گوگل و موتور های جستجو به "
+"این صورت نمایش داده خواهد شد:"
+
+#: ../lib/yasr-settings-functions.php:429
+msgid ""
+"If, instead, you choose \"Aggregate Rating\", your site will be indexed like "
+"this"
+msgstr ""
+"اگر شما \"رای کاربران و تعداد رای ها\" را انتخاب کنید, در گوگل و موتور های "
+"جستجو به این صورت نمایش داده خواهد شد:"
+
+#: ../lib/yasr-settings-functions.php:440
+msgid "Select default item type for all post or pages"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:445
+msgid "Product"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:449
+msgid "Place"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:453
+msgid "Recipe"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:457
+msgid "BlogPosting"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:463
+msgid ""
+"If you need to use BlogPosting as item type, even for just one post or page, "
+"please fill these forms"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:468
+msgid "Publisher name (e.g. Google)"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:473
+msgid "Logo Url (if empty siteicon will be used instead)"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:480
+msgid "You can always change it in the single post or page."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:482
+msgid ""
+"This will affect only the post/page where you didn't change manually the "
+"itemtype yet."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:521
+msgid "Stars"
+msgstr "به صورت ستاره"
+
+#: ../lib/yasr-settings-functions.php:525
+msgid "Numbers"
+msgstr "به صورت اعداد"
+
+#: ../lib/yasr-settings-functions.php:601
+msgid "Add New Multiple Set"
+msgstr "1 نقد و برسی چند گانه بسازید"
+
+#: ../lib/yasr-settings-functions.php:602
+msgid ""
+"Name, Element#1 and Element#2 MUST be filled and must be long at least 3 "
+"characters"
+msgstr ""
+"اسم, المان 1 و المان 2 حتما باید پر شود و در فیلد ها حتما باید بیشتر از 3 "
+"کارکتر وارد کنید"
+
+#: ../lib/yasr-settings-functions.php:605
+msgid "Name"
+msgstr "اسم"
+
+#: ../lib/yasr-settings-functions.php:610
+msgid "You can insert up to nine elements"
+msgstr ""
+"شما میتوانید 9 المان ثبت کنید برای مثال فرض کنید گوشی اپل رو میخواهید برسی "
+"کنید به این صورت وارد کنید! دوربین, صفحه نمایش, صدا.... و اسم رو هم بزارید "
+"اپل تا پیدا کردنش راحت باشه براتون!"
+
+#: ../lib/yasr-settings-functions.php:615
+msgid "Element "
+msgstr "المان"
+
+#: ../lib/yasr-settings-functions.php:625
+msgid "Create New Set"
+msgstr "نقد و برسی من را بساز"
+
+#: ../lib/yasr-settings-functions.php:646
+#: ../lib/yasr-settings-functions.php:679
+msgid "Manage Multiple Set"
+msgstr "ویرایش نقد برسی های چند گانه"
+
+#: ../lib/yasr-settings-functions.php:648
+msgid "Wich set do you want to edit or remove?"
+msgstr "برای ویرایش و پاک کردن یکی را انتخاب کنید"
+
+#: ../lib/yasr-settings-functions.php:689
+#: ../lib/yasr-settings-functions.php:807
+msgid "Field name"
+msgstr "اسم فیلد ها"
+
+#: ../lib/yasr-settings-functions.php:693
+#: ../lib/yasr-settings-functions.php:811
+msgid "Remove"
+msgstr "پاک کردن"
+
+#: ../lib/yasr-settings-functions.php:735
+#: ../lib/yasr-settings-functions.php:853
+msgid "Remove whole set?"
+msgstr "همه را پاک کن؟!"
+
+#: ../lib/yasr-settings-functions.php:748
+#: ../lib/yasr-settings-functions.php:866
+msgid ""
+"If you remove something you will remove all the votes for that set or field. "
+"This operation CAN'T BE undone."
+msgstr ""
+"اگر چیزی را پاک کنید امتیاز ها و رای ها هم پاک خواهند شد و قابل برگشت هم "
+"نیستند!"
+
+#: ../lib/yasr-settings-functions.php:755
+#: ../lib/yasr-settings-functions.php:873
+msgid "You can use up to 9 elements"
+msgstr "شما بیشتر از 9 المان نمیتوانید ثبت کنید"
+
+#: ../lib/yasr-settings-functions.php:757
+#: ../lib/yasr-settings-functions.php:875
+msgid "Add element"
+msgstr "المان های اضافه را ایجاد کن"
+
+#: ../lib/yasr-settings-functions.php:759
+#: ../lib/yasr-settings-functions.php:877
+msgid "Save changes"
+msgstr "ذخیره تنظیمات"
+
+#: ../lib/yasr-settings-functions.php:769
+msgid "No Multiple Set were found"
+msgstr "نقد و برسی پیدا نشد!"
+
+#: ../lib/yasr-settings-functions.php:1018
+#: ../lib/yasr-settings-functions.php:1318
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: ../lib/yasr-settings-functions.php:1023
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr "مشکلی در وارد کردن اسم فیلد رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1029
+msgid "Something goes wrong trying insert Multi Set name. Please report it"
+msgstr ""
+"مشکلی در وارد کردن اسم نقد برسی چند گانه رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1104
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr "مشکلی در پاک کردن نقد برسی چند گانه رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1150
+msgid ""
+"Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr ""
+"مشکلی در پاک کردن المان نقد برسی چند گانه رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1214
+msgid ""
+"Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr "مشکلی در آپدیت المان برسی چند گانه رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1303
+msgid ""
+"Something goes wrong trying to insert set field name in edit form. Please "
+"report it"
+msgstr ""
+"مشکلی در قرار دادن اسم فیلد در ویرایش فرم رخ داده است. خواهشا گزارش دهید"
+
+#: ../lib/yasr-settings-functions.php:1351
+msgid "Style Options"
+msgstr "تنظیمات سبک و استایل"
+
+#: ../lib/yasr-settings-functions.php:1352
+msgid "Which color scheme do you want to use?"
+msgstr "دوست دارید چه رنگی نمایش داده شود؟"
+
+#: ../lib/yasr-settings-functions.php:1370
+msgid "Select the set you've uploaded"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1371
+#, fuzzy
+msgid "Choose Stars Set"
+msgstr "انتخاب اندازه"
+
+#: ../lib/yasr-settings-functions.php:1375
+msgid "Custom CSS Styles"
+msgstr "وارد کردن CSS و استایل های سفارسی"
+
+#: ../lib/yasr-settings-functions.php:1390
+msgid "Light"
+msgstr "روشن"
+
+#: ../lib/yasr-settings-functions.php:1395
+msgid "Dark"
+msgstr "تیره"
+
+#: ../lib/yasr-settings-functions.php:1400
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: ../lib/yasr-settings-functions.php:1405
+msgid "Light theme"
+msgstr "قالب روشن"
+
+#: ../lib/yasr-settings-functions.php:1410
+#, fuzzy
+msgid "Dark theme"
+msgstr "قالب تیره"
+
+#: ../lib/yasr-settings-functions.php:1422
+msgid ""
+"Please use text area below to write your own CSS styles to override the "
+"default ones."
+msgstr "در فیلد پایین استایل CSS سفارشی خود را وارد کنید."
+
+#: ../lib/yasr-settings-functions.php:1424
+#, fuzzy
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "اگه نمیدونید دارید چیکار می کنید این فیلد را خالی بزارید!!"
+
+#: ../lib/yasr-settings-functions.php:1495
+msgid "Keep in touch!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1538
+#, php-format
+msgid ""
+"Hey, seems like you reached %s votes on your site throught YASR! That's cool!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1540
+msgid "Can I ask a favor?"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1542
+msgid "Can you please rate YASR 5 stars on"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1544
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1550
+msgid "Ok, I'm glad to help!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1551
+msgid "Remind me later!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1552
+msgid "Don't need to ask, I already did it!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1585
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\">Yet Another Stars "
+"Rating</a>. Please <a href=\"%s\" target=\"_blank\">rate it</a> 5 stars on "
+"<a href=\"%s\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1630
+msgid "No previous Gd Star Rating installation was found"
+msgstr "نسخه ای از افزونه Gd Star Rating که نصب شده باشد پیدا نشد"
+
+#: ../lib/yasr-db-functions.php:426 ../lib/yasr-db-functions.php:569
+msgid "No recenet votes yet"
+msgstr "رای هنوز ثبت نشده است"
+
+#: ../lib/yasr-db-functions.php:441 ../lib/yasr-ajax-functions.php:833
+msgid "anonymous"
+msgstr "ناشناس"
+
+#: ../lib/yasr-db-functions.php:450
+#, php-format
+msgid "Vote %d from %s on "
+msgstr ""
+
+#: ../lib/yasr-db-functions.php:466 ../lib/yasr-db-functions.php:599
+#: ../lib/yasr-ajax-functions.php:858 ../lib/yasr-ajax-functions.php:1007
+msgid "Ip address"
+msgstr "آی پی آدرس"
+
+#: ../lib/yasr-db-functions.php:487 ../lib/yasr-db-functions.php:620
+#: ../lib/yasr-ajax-functions.php:876 ../lib/yasr-ajax-functions.php:1026
+msgid "Pages"
+msgstr "صفحات"
+
+#: ../lib/yasr-db-functions.php:583 ../lib/yasr-ajax-functions.php:991
+#, fuzzy, php-format
+msgid "You rated %s on "
+msgstr "شما امتیاز داده شما "
+
+#: ../lib/yasr-functions.php:57
+msgid "bad, poor, ok, good, super"
+msgstr ""
+
+#: ../lib/yasr-functions.php:134 ../lib/yasr-functions.php:135
+msgid "Yet Another Stars Rating: Settings"
+msgstr "تنظیمات: Yet Another Stars Rating"
+
+#: ../lib/yasr-functions.php:184
+msgid "Yet Another Stars Rating: Multiple set"
+msgstr "افزودن نقد برسی های چند گانه به پست"
+
+#: ../lib/yasr-functions.php:195
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "شما امتیاز کافی ندارید تا رای کلی را قرار دهید"
+
+#: ../lib/yasr-functions.php:205
+#, fuzzy
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "شما امتیاز کافی ندارید تا نقد و برسی چند گانه قرار دهید"
+
+#: ../lib/yasr-functions.php:660
+msgid "Product, Place, Recipe, BlogPosting"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:109
+msgid "You've rated it "
+msgstr "شما امتیاز داده شما "
+
+#: ../lib/yasr-ajax-functions.php:113
+msgid "You've reset the vote"
+msgstr "شما رای را مجدداً تنظیم کرده اید"
+
+#: ../lib/yasr-ajax-functions.php:201
+#, fuzzy
+msgid "Type Saved"
+msgstr "رای شما ثبت شد"
+
+#: ../lib/yasr-ajax-functions.php:204
+msgid ""
+"There was an error while trying to insert the review type. Please report it"
+msgstr ""
+"این مشکلی زمانی رخ می دهد که می خواهید نوع نقد و برسی را انتخاب کنید. خوهشا "
+"گزارش دهید"
+
+#: ../lib/yasr-ajax-functions.php:243
+msgid "Choose a vote for each element"
+msgstr "برای هر یک از المان ها یک امتیاز انتخاب کنید"
+
+#: ../lib/yasr-ajax-functions.php:306 ../lib/yasr-ajax-functions.php:350
+#, fuzzy
+msgid "If you want to insert this multiset, paste this shortcode "
+msgstr "اگه میخواهید نقد برسی چند گانه وارد کنید, یکی را انتخاب کنید:"
+
+#: ../lib/yasr-ajax-functions.php:308 ../lib/yasr-ajax-functions.php:352
+msgid ""
+"If, instead, you want allow your visitor to vote on this multiset, use this "
+"shortcode"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:317
+msgid "Choose a vote for every element"
+msgstr "برای هر آلمان رای انتخاب کنید"
+
+#: ../lib/yasr-ajax-functions.php:493
+msgid "Main"
+msgstr "اصلی"
+
+#: ../lib/yasr-ajax-functions.php:494
+msgid "Charts"
+msgstr "نمودار ها"
+
+#: ../lib/yasr-ajax-functions.php:497
+msgid "Read the doc"
+msgstr "این مقاله را بخوانید "
+
+#: ../lib/yasr-ajax-functions.php:506
+msgid "Overall Rating / Review"
+msgstr "امتیاز کلی / نقد و برسی"
+
+#: ../lib/yasr-ajax-functions.php:508
+msgid "Insert Overall Rating"
+msgstr "قرار دادن امتیاز دهی کلی"
+
+#: ../lib/yasr-ajax-functions.php:509
+msgid "Insert Overall Rating / Review for this post"
+msgstr "امتیاز کلی / نقد برسی را در این پست قرار بده"
+
+#: ../lib/yasr-ajax-functions.php:512 ../lib/yasr-ajax-functions.php:530
+msgid "Choose Size"
+msgstr "انتخاب اندازه"
+
+#: ../lib/yasr-ajax-functions.php:526
+msgid "Insert Visitor Votes"
+msgstr "اضافه کردن امتیاز دهی کاربران"
+
+#: ../lib/yasr-ajax-functions.php:527
+msgid "Insert the ability for your visitor to vote"
+msgstr "قابلیت امتیاز دادن کاربران به این مقاله را اضافه کنید"
+
+#: ../lib/yasr-ajax-functions.php:544
+msgid "If you want to insert a Multi Set, pick one:"
+msgstr "اگه میخواهید نقد برسی چند گانه وارد کنید, یکی را انتخاب کنید:"
+
+#: ../lib/yasr-ajax-functions.php:550
+msgid "Choose wich set you want to insert."
+msgstr "مجموعه ای که می خواهید وارد کنید را انتخاب کنید."
+
+#: ../lib/yasr-ajax-functions.php:552 ../lib/yasr-ajax-functions.php:569
+msgid "Readonly?"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:554 ../lib/yasr-ajax-functions.php:570
+msgid ""
+"If Readonly is checked, only you can insert the votes (in the box above the "
+"editor)"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:555
+#, fuzzy
+msgid "Insert Multi Set"
+msgstr "مجموعه نقد و برسی های چند گانه"
+
+#: ../lib/yasr-ajax-functions.php:564
+msgid "Insert Multiset:"
+msgstr "قرار دادن نقد و برسی های چند گانه"
+
+#: ../lib/yasr-ajax-functions.php:567
+msgid "Insert Multiple Set"
+msgstr "مجموعه نقد و برسی های چند گانه"
+
+#: ../lib/yasr-ajax-functions.php:585
+msgid "Ranking reviews"
+msgstr "لیست امتیاز پست ها"
+
+#: ../lib/yasr-ajax-functions.php:586
+msgid "Insert Ranking reviews"
+msgstr "لیست پست ها را قرار بده"
+
+#: ../lib/yasr-ajax-functions.php:587
+msgid "Insert Top 10 ranking for [yasr_overall_rating] shortcode"
+msgstr ""
+"قرار دادن شورت کات [yasr_overall_rating] برای 10 تا از بیشترین پست های دارای "
+"امتیاز"
+
+#: ../lib/yasr-ajax-functions.php:591
+msgid "Users' ranking"
+msgstr "امتیاز های کاربران"
+
+#: ../lib/yasr-ajax-functions.php:592
+msgid "Insert Users ranking"
+msgstr "قرار دادن امتیاز کاربران"
+
+#: ../lib/yasr-ajax-functions.php:593
+msgid "Insert Top 10 ranking for [yasr_visitor_votes] shortcode"
+msgstr "[yasr_most_or_highest_rated_posts]"
+
+#: ../lib/yasr-ajax-functions.php:597
+msgid "Most active reviewers"
+msgstr "فعال ترین افراد دارای نقد برسی چند گانه"
+
+#: ../lib/yasr-ajax-functions.php:598
+msgid "Insert Most Active Reviewers"
+msgstr "فعال ترین افراد دارای نقد برسی قرار بده"
+
+#: ../lib/yasr-ajax-functions.php:599
+msgid "Insert Top 5 active reviewers"
+msgstr "قرار دادن 5 نویسنده فعال دارای بیشترین نقد و برسی"
+
+#: ../lib/yasr-ajax-functions.php:603
+msgid "Most Active Users"
+msgstr "بیشترین کاربران فعال"
+
+#: ../lib/yasr-ajax-functions.php:604
+msgid "Insert Most Active Users"
+msgstr "فعال ترین کاربران امتیاز دهنده را قرار بده"
+
+#: ../lib/yasr-ajax-functions.php:605
+msgid "Insert Top 10 voters [yasr_visitor_votes] shortcode"
+msgstr "برای قرار دادن 10 کاربر فعال از کد  [yasr_visitor_votes] استفاده کنید"
+
+#: ../lib/yasr-ajax-functions.php:678
+msgid "Reviews and Visitor Votes have been successfull imported."
+msgstr "نقد و برسی ها و رای بازدید کننده ها با موفقیت اضافه شد"
+
+#: ../lib/yasr-ajax-functions.php:684
+msgid ""
+"Step2: I will check if you used Multiple Sets and if so I will import them. "
+"THIS MAY TAKE A WHILE!"
+msgstr ""
+"گام دوم: من چک میکنم اگه نقد و برسی پیدا کردم آنها را اضافه میکنم. ممکنه کمی "
+"زمان ببرد"
+
+#: ../lib/yasr-ajax-functions.php:686
+msgid "Proceed Step 2"
+msgstr "در حال اجرای گام دوم"
+
+#: ../lib/yasr-ajax-functions.php:693
+msgid "Something goes wrong! Refresh the page and try again!"
+msgstr "مشکلی رخ داده است! صفحه را رفرش کنید و دوباره امتحان کنید"
+
+#: ../lib/yasr-ajax-functions.php:722
+msgid "I've found Multiple Set! Importing..."
+msgstr "نقد برسی چند گانه ای پیدا شد! در حال اضافه کردن..."
+
+#: ../lib/yasr-ajax-functions.php:731
+msgid "Multi Set's name has been successfull imported."
+msgstr "نقد برسی چند گانه با موفقیت اضافه شد."
+
+#: ../lib/yasr-ajax-functions.php:733
+msgid "Now I'm going to import Multi Set data"
+msgstr "حالا در حال اضافه کردن داده های نقد برسی چند گانه هستم"
+
+#: ../lib/yasr-ajax-functions.php:744
+msgid "All votes has been successfull imported."
+msgstr "تمام رای ها با موفقیت اضافه شد."
+
+#: ../lib/yasr-ajax-functions.php:746
+msgid "Done"
+msgstr "انجام شد"
+
+#: ../lib/yasr-ajax-functions.php:751
+msgid "I've found Multiple Set's votes but I couldn't insert into db"
+msgstr "رای های نقد و برسی چند گانه پیدا شد اما نمیتوانم در دیتابیس قرارش دهم"
+
+#: ../lib/yasr-ajax-functions.php:759
+msgid "I've found Multi Set but with no data"
+msgstr "نقد و برسی چند گانه ای پیدا شد اما بدون داده ای"
+
+#: ../lib/yasr-ajax-functions.php:768
+msgid "I've found Multi Sets names but I couldn't insert into db"
+msgstr "اسم نقد و برسی چند گانه ای پیدا شد اما نیمی توانم در دیتابیس واردش کنم"
+
+#: ../lib/yasr-ajax-functions.php:776
+msgid "Multisets were not found. Imported is done!"
+msgstr "نقد و برسی چند گانه ای پیدا نشد. اضافه شدن انجام شد!"
+
+#: ../lib/yasr-ajax-functions.php:820 ../lib/yasr-ajax-functions.php:979
+msgid "No Recenet votes yet"
+msgstr "هیچ رای ثبت نشده است"
+
+#: ../lib/yasr-ajax-functions.php:842
+#, php-format
+msgid "Vote %d from %s on"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:1191 ../lib/yasr-ajax-functions.php:1349
+msgid "Error: you can't vote 0"
+msgstr "ارور: شما امتیاز نمیتوانید رای 0 دهید"
+
+#: ../lib/yasr-ajax-functions.php:1300 ../lib/yasr-ajax-functions.php:1308
+#, fuzzy
+msgid "Average:"
+msgstr "میانگین: "
+
+#: ../lib/yasr-ajax-functions.php:1301 ../lib/yasr-ajax-functions.php:1309
+msgid "Vote Saved"
+msgstr "رای شما ثبت شد"
+
+#: ../lib/yasr-ajax-functions.php:1450
+msgid "Vote updated"
+msgstr "رای شما تغیر یافت"
+
+#: ../lib/yasr-ajax-functions.php:1595
+#, fuzzy
+msgid "Rating saved!"
+msgstr "تنظیمات ذخیره شد"
+
+#: ../lib/yasr-ajax-functions.php:1601
+msgid "Rating not saved. Please Try again"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:1694
+msgid "stars"
+msgstr "ستاره"
+
+#: ../lib/yasr-ajax-functions.php:1699
+#, fuzzy
+msgid "star"
+msgstr "ستاره"
+
+#~ msgid "Styles"
+#~ msgstr "سبک و استایل"
+
+#~ msgid "Pro Features!"
+#~ msgstr "امکانات حرفه ای"
+
+#~ msgid "Looking for more features?"
+#~ msgstr "به دنبال امکانات بیشتری می گردید ؟"
+
+#~ msgid "Upgrade to yasr pro!"
+#~ msgstr "به yasr pro آپدیت کنید!"
+
+#~ msgid "Unlimited ratings and votes"
+#~ msgstr "امتیاز و رای دادن نامحدود"
+
+#~ msgid "Works with shortcodes"
+#~ msgstr "کار کردن با شورت کات ها"
+
+#~ msgid "Multi Set Support"
+#~ msgstr "نقد و برسی چند گانه"
+
+#~ msgid "Logs and stats for visitors votes"
+#~ msgstr "لوگ و آمارگیر برای رای بازدید کنندگان"
+
+#~ msgid "Localization (.po and .mo files included)"
+#~ msgstr "فایل های .PO .MO برای ترجمه "
+
+#~ msgid "Rankings for reviews, votes and users"
+#~ msgstr "رتبه بندی برای نقد و برسی, رای و کاربران"
+
+#~ msgid "Rankings Customization"
+#~ msgstr "رتبه بندی سفارشی"
+
+#~ msgid "Stars Customization"
+#~ msgstr "سفارشی سازی ستاره ها"
+
+#~ msgid "Size Only"
+#~ msgstr "فقط اندازه"
+
+#~ msgid "Users can review in comments"
+#~ msgstr "کاربران میتوانند در قسمت نظرات به صورت نقد و برسی نظر دهند"
+
+#~ msgid "Not avaible yet"
+#~ msgstr " هنوز آماده نشده"
+
+#, fuzzy
+#~ msgid "reviewed by"
+#~ msgstr " نقد و برسی شده توسط "
+
+#~ msgid " on "
+#~ msgstr " در تاریخ "
+
+#, fuzzy
+#~ msgid "reviewed on"
+#~ msgstr " نقد و برسی شده توسط "
+
+#, fuzzy
+#~ msgid "rated"
+#~ msgstr " امتیاز "
+
+#, fuzzy
+#~ msgid "of"
+#~ msgstr " از"
+
+#~ msgid " written by "
+#~ msgstr " نوشته شده توسط "
+
+#~ msgid " average rating "
+#~ msgstr " میانگین امتیاز ها "
+
+#~ msgid " user ratings"
+#~ msgstr " کاربر امتیاز داده اند"
+
+#~ msgid "Donations"
+#~ msgstr "کمک کردن مالی"
+
+#~ msgid ""
+#~ "If you have found this plugin useful, please consider making a donation "
+#~ "to help support future development. Your support will be much "
+#~ "appreciated. "
+#~ msgstr ""
+#~ "اگه این افزونه برای شما کاربردی بود و همچنین از اون خوشتون اومده میتوانید "
+#~ "با کمک مالی ما را در ادمه دادن و آپدیت این افزونه کمک کنید."
+
+#~ msgid "Thank you!"
+#~ msgstr "از حمایت شما متشکریم!"
+
+#~ msgid "Follow YASR official site!"
+#~ msgstr "YASR را در سایتش دنبال کنید!"
+
+#~ msgid ""
+#~ "Seems like you've imported gd star rating in the past, but then deleted "
+#~ "the logs table. For now, you can't enable statistics"
+#~ msgstr ""
+#~ "به نظر می آید شما قبلا تنظیمات افزونه gd star rating را اضافه کرده اید"
+
+#~ msgid "Visitors can vote on Multi Set"
+#~ msgstr "کاربران میتوانند در نقد و برسی چندگانه رای دهند"
+
+#~ msgid "Overall Rating"
+#~ msgstr "رای کلی ( رای نویسنده )"
+
+#~ msgid "Remember to insert this shortcode"
+#~ msgstr "یادتان باشد حتما این شورت کات را"
+
+#~ msgid "where you want to display this multi set"
+#~ msgstr "درون پست و قسمتی که میخواهید نمایش داده شود قرار دهید"
+
+#~ msgid "Insert multiple set in this post ?"
+#~ msgstr "نقد و برسی های چند گانه را در پست قرار دهم؟"
+
+#~ msgid "Average rating"
+#~ msgstr "میانگین امتیاز ها"
+
+#~ msgid "Average "
+#~ msgstr "میانگین"
+
+#, fuzzy
+#~ msgid "You've already voted this article"
+#~ msgstr "شما به این مقاله قبلا رای داده اید با امتیاز"

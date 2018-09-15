@@ -1,0 +1,749 @@
+.star-rating {
+    width: 0;
+    position: relative;
+    display:inline-block;
+    background-image: url(../img/star_0.svg);
+    background-position: 0 0;
+    background-repeat: repeat-x;
+}
+
+.star-rating[data-title]:hover:after {
+    content: attr(data-title);
+    padding: 4px 8px;
+    color: #333;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    z-index: 20;
+    white-space: nowrap;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 4px #222;
+    -webkit-box-shadow: 0px 0px 4px #222;
+    box-shadow: 0px 0px 4px #222;
+    background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
+    background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
+    background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
+}
+
+.star-rating .star-value {
+    height: 100%;
+    position: absolute;
+}
+
+.star-rating .star-value {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url('../img/star_1.svg') ;
+    background-repeat: repeat-x;
+}
+
+
+
+
+/****** Rate it rules *****/
+
+.rateit {
+    display: -moz-inline-box;
+    display: inline-block;
+    position: relative;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+}
+
+.rateit .rateit-range
+{
+    position: relative;
+    display: -moz-inline-box;
+    display: inline-block;
+    height: 16px;
+    outline: none;
+}
+
+.rateit .rateit-range * {
+    display:block;
+}
+
+/* for IE 6 */
+* html .rateit, * html .rateit .rateit-range
+{
+    display: inline;
+}
+
+/* for IE 7 */
+* + html .rateit, * + html .rateit .rateit-range
+{
+    display: inline;
+}
+
+.rateit .rateit-hover, .rateit .rateit-selected
+{
+    position: absolute;
+    left: 0px;
+}
+
+.rateit .rateit-hover-rtl, .rateit .rateit-selected-rtl
+{
+    left: auto;
+    right: 0px;
+}
+
+
+.rateit .rateit-hover-rtl
+{
+    background-position: right -16px;
+}
+
+.rateit .rateit-selected-rtl
+{
+    background-position: right -32px;
+}
+
+.rateit .rateit-preset
+{
+    background: url('../img/star.png') left -48px;
+}
+
+.rateit .rateit-preset-rtl
+{
+    background: url('../img/star.png') left -48px;
+}
+
+.rateit button.rateit-reset
+{
+    background: url('../img/delete.gif') 0 0;
+    width: 16px;
+    height: 16px;
+    display: -moz-inline-box;
+    display: inline-block;
+    float: left;
+    outline: none;
+    border:none;
+    padding: 0;
+}
+
+.rateit button.rateit-reset:hover, .rateit button.rateit-reset:focus
+{
+    background-position: 0 -16px;
+}
+
+.yasr_settings_fields_content {
+    background-color: #F7F7F7;
+}
+
+
+/* Creating set 24px image . */
+
+div.medium .rateit-range
+{
+    /*White*/
+    width: 24px;
+    height: 24px;
+}
+
+div.medium .rateit-hover
+{
+    /*Red*/
+    width: 24px;
+    height: 24px;
+    display: none
+
+}
+
+div.medium .rateit-selected
+{
+    /*Yellow*/
+    width: 24px;
+    height: 24px;
+}
+
+/* Creating set 32 */
+
+div.bigstars .rateit-range
+{
+    /*White*/
+    width: 32px;
+    height: 32px;
+}
+
+div.bigstars .rateit-hover
+{
+    /*red*/
+    width: 32px;
+    height: 32px;
+    display: none
+}
+
+div.bigstars .rateit-selected
+{
+    /*Gold*/
+    width: 32px;
+    height: 32px;
+}
+
+/*************** End rateit rules ***************/
+
+
+/********** Edit post / page rules **********/
+
+/*** Metabox top right ***/
+
+#yasr-matabox-top-right {
+    text-align: center;
+}
+
+#yasr-rateit-vote-overall-text {
+    display: block;
+}
+
+#yasr-vote-with-numbers-select-container {
+    display: block;
+}
+
+#yasr-comma-between-select {
+    vertical-align: text-bottom;
+    line-height: 0.5em;
+}
+
+#yasr-switcher-disable-auto-insert {
+    margin: 0 auto;
+    text-align: left;
+}
+
+/*** End metabox overall rating ***/
+
+#multi_rating_table
+{
+	vertical-align: text-top;
+}
+
+.yasr-form-result {
+    display: block;
+}
+
+/**************** Settings page *******************/
+
+/*** Top menu navigation ***/
+.yasr-no-underline {
+    border-bottom: none !important;
+}
+
+.nav-tab-active, .nav-tab-active:hover {
+    background-color: white ;
+}
+
+/*** End top navigation ***/
+
+
+
+/*** On / Off Switch ***/
+
+.yasr-onoffswitch-big {
+    position: relative; width: 85px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.yasr-onoffswitch-checkbox {
+    display: none !important;
+}
+.yasr-onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #FFFFFF; border-radius: 35px;
+}
+.yasr-onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.yasr-onoffswitch-inner:before, .yasr-onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 30px; padding: 0; line-height: 30px;
+    font-size: 18px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.yasr-onoffswitch-inner:before {
+    content: "YES";
+    padding-left: 9px;
+    background-color: #EEEEEE; color: #34A7C1;
+}
+.yasr-onoffswitch-inner:after {
+    content: "NO";
+    padding-right: 15px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.yasr-onoffswitch-switch {
+    display: block; width: 30px; margin: 0px;
+    background: #A1A1A1;
+    position: absolute; top: 0; bottom: 0;
+    right: 51px;
+    border: 2px solid #FFFFFF; border-radius: 35px;
+    transition: all 0.3s ease-in 0s;
+}
+
+.yasr-onoffswitch-checkbox:checked + .yasr-onoffswitch-label .yasr-onoffswitch-inner {
+    margin-left: 0;
+}
+.yasr-onoffswitch-checkbox:checked + .yasr-onoffswitch-label .yasr-onoffswitch-switch {
+    right: 0px;
+    background-color: #34A7C1;
+}
+
+/* Alternative with ON/OFF INSTEAD YES/NO text */
+.yasr-onoffswitch-onoff-inner:before {
+    content: "ON";
+    padding-left: 15px;
+    background-color: #EEEEEE; color: #34A7C1;
+}
+.yasr-onoffswitch-onoff-inner:after {
+    content: "OFF";
+    padding-right: 9px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+
+/* Alternative with no text */
+.yasr-onoffswitch-notext-inner:before {
+    content: "";
+    padding-left: 9px;
+    background-color: #EEEEEE; color: #34A7C1;
+}
+.yasr-onoffswitch-notext-inner:after {
+    content: "";
+    padding-right: 15px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+
+
+/*** End on of switch ***/
+
+
+@media (min-width: 1177px) {
+
+    .yasr-settingsdiv {
+	    float:left;
+        display:block;
+        width:60%;
+        background-color:#FFF;
+        border: 1px solid #DDD;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 10px;
+    }
+
+    .yasr-donatedivdx {
+        float:right;
+        display:block !important;
+        min-width: 290px;
+        width:15%;
+        margin-bottom: 10px;
+        background-color:#FFF;
+        border: 1px solid #DDD;
+        padding: 25px;
+        font-size: 12px;
+    }
+
+    .yasr-upgrade-to-pro {
+
+        font-size: 14px;
+
+    }
+
+    .yasr-upgrade-to-pro li::before {
+
+        margin-right: 7px;
+        left: 0;
+        font-weight: 700;
+        content: "+";
+
+    }
+
+    .yasr-ask-five-stars {
+
+        float:right;
+        display:block;
+        min-width: 290px;
+        width:15%;
+        margin-bottom: 10px;
+        background-color:#FFF;
+        border-left: 3px solid #7AD03A;
+        padding: 25px;
+        font-size: 14px;
+        /*color: #015316;*/
+
+    }
+
+}
+
+/*** Multi page rules ***/
+
+@media (max-width: 1176px) {
+
+    .yasr-settingsdiv {
+        float:left;
+        display:block;
+        width:95%;
+        background-color:#FFF;
+        border: 1px solid #DDD;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+    }
+
+    .yasr-donatedivbottom {
+        display:block !important;
+        width:95%;
+        background-color:#FFF;
+        margin-top: 10px;
+        border: 1px solid #DDD;
+        padding: 10px;
+        font-size: 12px;
+    }
+
+}
+
+.yasr-option-size {
+    vertical-align: bottom;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.yasr-img-option-size {
+    vertical-align: middle;
+}
+
+.yasr-text-options-size {
+    height: 30px;
+    vertical-align: middle;
+    padding-left: 8px;
+}
+
+#yasr-color-scheme-preview {
+    border: 2px dashed #CCC;
+    padding: 15px;
+    margin: 10px;
+}
+
+.yasr-help-box-settings {
+    display: none;
+    border: 2px dashed #CCC;
+    padding: 15px;
+    margin: 10px;
+}
+
+.yasr-list-set-table {
+    margin-left:5px;
+}
+
+.yasr-space-settings-div {
+    padding-bottom: 15px;
+    clear: both;
+}
+
+.yasr-indented-answer {
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+
+
+/*** Rules for Multi set page ***/
+
+.yasr-multi-set-form-headers {
+    text-align: center;
+}
+
+.yasr-multi-set-left {
+    float:left;
+    width: 40%;
+}
+
+.yasr-multi-set-right {
+    float:right;
+    width: 55%;
+}
+
+.yasr-new-multi-set {
+    overflow: auto;
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+.yasr-manage-multiset {
+    overflow: auto;
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+.yasr-manage-multiset-single {
+    overflow: auto;
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+
+.yasr-input-text-multi-set{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#yasr-multi-set-response {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+#yasr-multi-set-response2 {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+#yasr-multi-set-doc-box {
+    border: 2px dashed #CCC;
+    padding: 15px;
+    margin: 30px;
+}
+
+#yasr-table-form-edit-multi-set {
+    width: 100%;
+}
+
+#yasr-table-form-edit-multi-set-header {
+    text-align: center;
+    padding: 5px;
+}
+
+#yasr-table-form-edit-multi-set-remove {
+    text-align: center;
+    padding: 5px;
+}
+
+.yasr-edit-form-remove-entire-set {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: red;
+}
+
+.yasr_table_multi_set_admin {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    font-size: 20px;
+}
+
+@media (min-width: 972px) {
+    .yasr_table_multi_set_admin {
+        width: 70%;
+    }
+}
+
+
+@media (max-width: 971px) {
+    .yasr_table_multi_set_admin {
+        width: 90%;
+    }
+}
+
+ .yasr_table_multi_set_admin td {
+        width: 50%
+    }
+
+.yasr_table_multi_set_admin tr:nth-child(odd) {
+        background: #feffd3;
+    }
+    /*  Define the background color for all the EVEN background rows  */
+.yasr_table_multi_set_admin tr:nth-child(even) {
+        background: #FFFFFF;
+    }
+
+
+.yasr-multi-set-choose-theme {
+    clear: both;
+    padding: 10px;
+    border: 1px solid #DDD;
+    background-color: #f7f7f7;
+}
+
+
+
+
+/*** End rules for multi set admin page ***/
+
+/**** Yasr Aspect & Styles tab ***/
+
+.yasr_choose_stars {
+    display: inline-block;
+    text-align: center;
+    padding-left: 15px;
+}
+
+
+#yasr-settings-stylish-image {
+
+    max-width:100%;
+    height:auto;
+
+}
+
+#yasr-settings-stylish-image:hover {
+
+    opacity: 0.4;
+
+}
+
+@media (max-width: 575px) {
+
+    #yasr-settings-stylish-text {
+
+        width: 50%;
+        margin: auto;
+        position: relative;
+        top: -80px;
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity: 0.8;
+        font-size: 2vh;
+        padding: 15px;
+        visibility: hidden;
+
+    }
+
+}
+
+
+@media (min-width: 576px) {
+
+    #yasr-settings-stylish-text {
+
+        width: 50%;
+        margin: auto;
+        position: relative;
+        top: -150px;
+        background-color: #ffffff;
+        border: 2px solid black;
+        opacity: 0.8;
+        font-size: 2vh;
+        padding: 15px;
+        visibility: hidden;
+
+    }
+
+}
+
+
+
+/**** End Yasr Aspect & Styles tab ***/
+
+
+
+
+/*** Popup in tinymce ***/
+
+
+.yasr-underline {
+    border-bottom: 1px solid #CCC !important;
+}
+
+#yasr-tinypopup-link-doc {
+    float: right;
+    font-size: 12px;
+}
+
+#yasr-overall-choose-size {
+    display: none;
+    margin-top: 20px;
+    border: 2px dashed #CCC;
+    padding-bottom: 10px;
+    margin-left: 8px;
+    padding-left: 8px;
+}
+
+.yasr-tinymce-button-size {
+    padding-top: 5px;
+}
+
+#yasr-visitor-choose-size {
+    display: none;
+    margin-top: 20px;
+    border: 2px dashed #CCC;
+    padding-bottom: 10px;
+    margin-left: 8px;
+    padding-left: 8px;
+}
+
+
+/*** End popup tinymce***/
+
+
+
+.yasr-log-container  {
+    width: 98%;
+}
+
+.yasr-log-div-child {
+    padding-top: 5px;
+    border-bottom: 1px solid #BBD8E7;
+    padding-bottom: 20px;
+}
+
+.yasr-log-image {
+    list-style-type: none;
+    display: inline-block;
+    float:left;
+}
+
+.yasr-log-child-head {
+    padding-left: 37px;
+}
+
+#yasr-log-vote {
+    color: red;
+}
+
+#yasr-log-vote-users {
+    color: green;
+}
+
+.yasr-log-post {
+    color: #2683AE;
+}
+
+.yasr-log-ip-date {
+    padding-top: 5px;
+}
+
+.yasr-log-ip {
+    float:left;
+    padding-left: 5px;
+}
+
+.yasr-log-date {
+    float: right;
+}
+
+#yasr-log-next-rows {
+    padding-top: 15px;
+    text-align: right;
+}
+
+#yasr-log-page-navigation {
+    padding-top: 7px;
+    text-align: center;
+}

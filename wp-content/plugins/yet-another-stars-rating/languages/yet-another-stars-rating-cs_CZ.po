@@ -1,0 +1,1163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YASR lenguages\n"
+"POT-Creation-Date: 2016-10-12 01:41-0500\n"
+"PO-Revision-Date: 2016-10-14 11:49+0200\n"
+"Language-Team: Mik013\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: Dario Curvino\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs_CZ\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../lib\n"
+
+#: ../yasr-metabox-top-right.php:74 ../yasr-metabox-top-right.php:108
+msgid "Rate this article / item"
+msgstr "Ohodnoťte tento článek / položku "
+
+#: ../yasr-metabox-top-right.php:80 ../lib/yasr-shortcode-functions.php:550
+#: ../lib/yasr-functions.php:55
+msgid "Loading, please wait"
+msgstr "Načítání dalších položek... počkejte prosím."
+
+#: ../yasr-metabox-top-right.php:156
+msgid "Save Vote"
+msgstr "Uložit hlas"
+
+#: ../yasr-metabox-top-right.php:184
+msgid "Disable auto insert for this post or page?"
+msgstr "Zakázat automatické vkládání pro tento příspěvek nebo stránku?"
+
+#: ../yasr-metabox-top-right.php:207
+msgid "This review is about a..."
+msgstr "Toto hodnocení je o ..."
+
+#: ../yasr-metabox-top-right.php:212 ../yasr-metabox-multiple-rating.php:46
+#: ../lib/yasr-settings-functions.php:789
+msgid "Select"
+msgstr "Vybrat"
+
+#: ../yasr-metabox-top-right.php:230
+msgid ""
+"Remember to insert this shortcode <strong>[yasr_overall_rating]</strong> "
+"where you want to display this rating"
+msgstr ""
+"Nezapomeňte vložit tento zkrácený kód <strong>[yasr_overall_rating]</strong> "
+"tam, kde chcete zobrazit toto hodnocení"
+
+#: ../yasr-settings-page.php:24 ../lib/yasr-functions.php:230
+#: ../lib/yasr-ajax-functions.php:45 ../lib/yasr-ajax-functions.php:142
+#: ../lib/yasr-ajax-functions.php:228 ../lib/yasr-ajax-functions.php:386
+#: ../lib/yasr-ajax-functions.php:815 ../lib/yasr-ajax-functions.php:1129
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemáte dostatečná oprávnění k přístupu na tuto stránku."
+
+#: ../yasr-settings-page.php:38
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../yasr-settings-page.php:82
+msgid "General Settings"
+msgstr "Obecná Nastavení"
+
+#: ../yasr-settings-page.php:83
+msgid "Multi Sets"
+msgstr "Vícepoložková hodnocení"
+
+#: ../yasr-settings-page.php:84
+msgid "Aspect & Styles"
+msgstr "Vzhled & Styly"
+
+#: ../yasr-settings-page.php:86
+msgid "Extensions"
+msgstr "Rozšíření"
+
+#: ../yasr-settings-page.php:103 ../lib/yasr-settings-functions.php:219
+#: ../lib/yasr-settings-functions.php:339
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: ../yasr-settings-page.php:128
+msgid "Import Gd Star Rating"
+msgstr "Import Gd Star Rating"
+
+#: ../yasr-settings-page.php:129
+msgid "I've found a previous installation of Gd Star Rating."
+msgstr "Našel jsem předchozí instalaci Gd Star Rating."
+
+#: ../yasr-settings-page.php:129
+msgid "Do you want proceed to import data?"
+msgstr "Chcete pokračovat importem dat?"
+
+#: ../yasr-settings-page.php:131
+msgid "Yes, Begin Import"
+msgstr "Ano, začít import"
+
+#: ../yasr-settings-page.php:135
+msgid "Click on Proceed to import Gd Star Rating data."
+msgstr "Klikněte na Pokračovat pro import Gd Star Rating dat."
+
+#: ../yasr-settings-page.php:138 ../yasr-settings-page.php:171
+msgid "Proceed"
+msgstr "Pokračovat"
+
+#: ../yasr-settings-page.php:160
+msgid "Manage GD Star Data"
+msgstr "Spravovat GD Star Data"
+
+#: ../yasr-settings-page.php:161
+msgid "Gd Star Rating has been already imported."
+msgstr "Gd Star Rating byl již importován."
+
+#: ../yasr-settings-page.php:162
+msgid "If you wish you can import it again, but"
+msgstr "Pokud chcete, můžete jej importovat znovu, ale"
+
+#: ../yasr-settings-page.php:162
+msgid "you will lose all data you've collect since the import!"
+msgstr "přijdete o všechna data, které jste od posledního importu získali!"
+
+#: ../yasr-settings-page.php:164
+msgid "Ok, Import Again"
+msgstr "OK, Importovat znovu"
+
+#: ../yasr-settings-page.php:168
+msgid ""
+"Click on Proceed to import again Gd Star Rating data. This may take a while!"
+msgstr ""
+"Kliknutím na Pokračovat znovu importujete data Gd Star Rating data. To může "
+"trvat delší dobu!"
+
+#: ../yasr-settings-page.php:205
+msgid "Manage Multi Set"
+msgstr "Spravovat vícepoložkové hodnocení"
+
+#: ../yasr-settings-page.php:209
+msgid "What is a Multi Set?"
+msgstr "Co je vícepoložkové hodnocení?"
+
+#: ../yasr-settings-page.php:214
+msgid ""
+"Multi Set allows you to insert a rate for each aspect about the product / "
+"local business / whetever you're reviewing, example in the image below."
+msgstr ""
+"Vícepoložkové hodnocení vám umožňuje vložit hodnocení pro každý aspekt o "
+"výrobku / místní firmy / všude tam, kde hodnotíte, příklad na obrázku níže."
+
+#: ../yasr-settings-page.php:218
+msgid ""
+"You can create up to 99 different Multi Set and each one can contain up to 9 "
+"different fields. Once you've saved it, you can insert the rates while "
+"typing your article in the box below the editor, as you can see in this "
+"image (click to see it larger)"
+msgstr ""
+"Můžete vytvořit až 99 různých vícepoložkových hodnocení a každé z nich může "
+"obsahovat až 9 různých prvků. Poté, co jej uložíte, můžete vkládat hodnocení "
+"při psaní vašeho článku do pole pod editorem, jak můžete vidět na tomto "
+"obrázku (klikněte pro jeho zvětšení)"
+
+#: ../yasr-settings-page.php:222
+msgid ""
+"In order to insert your Multi Sets into a post or page, you can either past "
+"the short code that will appear at the bottom of the box or just click on "
+"the star in the graphic editor and select \"Insert Multi Set\"."
+msgstr ""
+"Aby bylo možné vložit vaše vícepoložková hodnocení do příspěvku nebo "
+"stránky, můžete buď vložit krátký kódu, který se objeví v dolní části okna, "
+"nebo stačí kliknout na hvězdu v grafickém editoru a vybrat možnost \"Vložit "
+"vícepoložkové hodnocení\"."
+
+#: ../yasr-settings-page.php:228
+msgid "Close this message"
+msgstr "Zavřít tuto zprávu"
+
+#: ../yasr-settings-page.php:263 ../yasr-settings-page.php:294
+msgid "Save"
+msgstr "Uložit"
+
+#: ../yasr-settings-page.php:320
+msgid "Extensions for Yet Another Stars Rating"
+msgstr "Rozšíření pro Yet Another Stars Rating"
+
+#: ../yasr-settings-page.php:323
+msgid "Extensions add functionality to your Yasr installation"
+msgstr "Rozšíření přidají další funkce do vaší Yasr instalace"
+
+#: ../yasr-settings-page.php:338
+msgid ""
+"Start accepting reviews and ratings for your post or pages using Yasr User "
+"Reviews extension."
+msgstr ""
+"Začít přijímat názory a hodnocení u komentářů vašich příspěvků nebo stránek "
+"pomocí Yasr User Reviews rozšíření."
+
+#: ../yasr-settings-page.php:356 ../yasr-settings-page.php:394
+#: ../yasr-settings-page.php:432
+msgid "Get this extension"
+msgstr "Získat toto rozšíření"
+
+#: ../yasr-settings-page.php:376
+msgid "Choose between ready to use image or upload your own!"
+msgstr "Vyberte si mezi připravenými ikonami, nebo nahrajte své vlastní!"
+
+#: ../yasr-settings-page.php:414
+msgid "Unleash all the power of your rankings with just a click!"
+msgstr "Objevte sílu vašeho pořadí pouhým jedním kliknutím!"
+
+#: ../yasr-metabox-multiple-rating.php:35
+msgid "Choose wich set you want to use"
+msgstr "Vyberte si sadu, kterou chcete používat"
+
+#: ../lib/yasr-shortcode-functions.php:192
+#: ../lib/yasr-shortcode-functions.php:217
+msgid "You've already voted this article with"
+msgstr "Tento článek jste už hodnotil(a) => "
+
+#: ../lib/yasr-shortcode-functions.php:242
+#: ../lib/yasr-shortcode-functions.php:579
+msgid "You must sign in to vote"
+msgstr "Musíte se přihlásit, abyste mohli hlasovat"
+
+#: ../lib/yasr-shortcode-functions.php:284 ../lib/yasr-ajax-functions.php:1316
+#: ../lib/yasr-ajax-functions.php:1324 ../lib/yasr-ajax-functions.php:1462
+msgid "Total: "
+msgstr "Celkem:"
+
+#: ../lib/yasr-shortcode-functions.php:284 ../lib/yasr-ajax-functions.php:1462
+msgid "Average: "
+msgstr "Průměr:"
+
+#: ../lib/yasr-shortcode-functions.php:495
+#: ../lib/yasr-shortcode-functions.php:548
+#: ../lib/yasr-shortcode-functions.php:885
+#: ../lib/yasr-shortcode-functions.php:920
+msgid "Average"
+msgstr "Průměr"
+
+#: ../lib/yasr-shortcode-functions.php:552
+msgid "Submit!"
+msgstr "Odeslat!"
+
+#: ../lib/yasr-shortcode-functions.php:558
+msgid "Thank you for voting! "
+msgstr "Děkujeme za Váš hlas!"
+
+#: ../lib/yasr-shortcode-functions.php:810
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: ../lib/yasr-shortcode-functions.php:828
+msgid "You don't have any votes stored"
+msgstr "Dosud nemáte žádné uložené hlasy"
+
+#: ../lib/yasr-shortcode-functions.php:866
+#: ../lib/yasr-shortcode-functions.php:905
+msgid "Post / Page"
+msgstr "Příspěvek / Stránka"
+
+#: ../lib/yasr-shortcode-functions.php:867
+#: ../lib/yasr-shortcode-functions.php:906
+msgid "Order By"
+msgstr "Seřadit podle"
+
+#: ../lib/yasr-shortcode-functions.php:867
+#: ../lib/yasr-shortcode-functions.php:906
+msgid "Most Rated"
+msgstr "Nejvíce hodnocené"
+
+#: ../lib/yasr-shortcode-functions.php:867
+#: ../lib/yasr-shortcode-functions.php:906
+msgid "Highest Rated"
+msgstr "Nejlépe hodnocené"
+
+#: ../lib/yasr-shortcode-functions.php:885
+#: ../lib/yasr-shortcode-functions.php:920
+msgid "Total:"
+msgstr "Celkem:"
+
+#: ../lib/yasr-shortcode-functions.php:897
+msgid "You've not enough data"
+msgstr "Nemáte dostatek údajů"
+
+#: ../lib/yasr-shortcode-functions.php:932
+msgid "You've not enought data"
+msgstr "Nemáte dostatek údajů"
+
+#: ../lib/yasr-shortcode-functions.php:1029
+msgid ""
+"Problem while retrieving the top 5 most active reviewers. Did you publish "
+"any review?"
+msgstr ""
+"Při načítání 5. nejaktivnějších recenzentů nastal problém. Publikovali jste "
+"nějaké hodnocení?"
+
+#: ../lib/yasr-shortcode-functions.php:1105
+msgid ""
+"Problem while retrieving the top 10 active users chart. Are you sure you "
+"have votes to show?"
+msgstr ""
+"Při načítání grafu 10. nejaktivnějších uživatelů nastal problém. Jste si "
+"jisti, že máte hlasy k zobrazení?"
+
+#: ../lib/yasr-shortcode-functions.php:1148
+#, php-format
+msgid "based on %d votes"
+msgstr "na základě %d hlasů"
+
+#: ../lib/yasr-settings-functions.php:68
+msgid "General settings"
+msgstr "Obecná nastavení"
+
+#: ../lib/yasr-settings-functions.php:69
+msgid "Auto insert options"
+msgstr "Možnosti automatického vložení"
+
+#: ../lib/yasr-settings-functions.php:70
+msgid "Show \"Overall Rating\" in Archive Page?"
+msgstr "Zobrazit \"Celkové hodnocení\" na archivované stránce?"
+
+#: ../lib/yasr-settings-functions.php:71
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "Zobrazit \"Hlasy návštěvníků\" na archivované stránce?"
+
+#: ../lib/yasr-settings-functions.php:72
+msgid "Insert custom text to show before / after stars"
+msgstr "Vložit vlastní text, který se zobrazí před / za hvězdami"
+
+#: ../lib/yasr-settings-functions.php:73
+msgid "Do you want show stats for visitors votes?"
+msgstr "Chcete zobrazit statistiky hlasů návštěvníků?"
+
+#: ../lib/yasr-settings-functions.php:74
+msgid "Allow only logged in user to vote?"
+msgstr "Povolit hlasování pouze přihlášeným uživatelům?"
+
+#: ../lib/yasr-settings-functions.php:75
+msgid "Rich snippet options"
+msgstr "Možnosti strukturovaného úryvku"
+
+#: ../lib/yasr-settings-functions.php:76
+msgid "How do you want to rate \"Overall Rating\"?"
+msgstr "Jak chcete vyjádřit \"Celkové hodnocení\"?"
+
+#: ../lib/yasr-settings-functions.php:89
+msgid "Use Auto Insert?"
+msgstr "Používat automatické vkládání­­­?"
+
+#: ../lib/yasr-settings-functions.php:102
+msgid "What?"
+msgstr "Co?"
+
+#: ../lib/yasr-settings-functions.php:107
+msgid "Overall Rating / Author Rating"
+msgstr "Celkové hodnocení / Hodnocení autora"
+
+#: ../lib/yasr-settings-functions.php:111 ../lib/yasr-ajax-functions.php:524
+msgid "Visitor Votes"
+msgstr "Hlasy návštěvníků"
+
+#: ../lib/yasr-settings-functions.php:115
+msgid "Both"
+msgstr "Oboje"
+
+#: ../lib/yasr-settings-functions.php:121
+msgid "Where?"
+msgstr "Kde?"
+
+#: ../lib/yasr-settings-functions.php:126
+msgid "Before the post"
+msgstr "Před příspěvkem"
+
+#: ../lib/yasr-settings-functions.php:130
+msgid "After the post"
+msgstr "Za příspěvkem"
+
+#: ../lib/yasr-settings-functions.php:137
+msgid "Size"
+msgstr "Velikost"
+
+#: ../lib/yasr-settings-functions.php:143 ../lib/yasr-ajax-functions.php:514
+#: ../lib/yasr-ajax-functions.php:532
+msgid "Small"
+msgstr "Malé"
+
+#: ../lib/yasr-settings-functions.php:148 ../lib/yasr-ajax-functions.php:515
+#: ../lib/yasr-ajax-functions.php:533
+msgid "Medium"
+msgstr "Střední"
+
+#: ../lib/yasr-settings-functions.php:153 ../lib/yasr-ajax-functions.php:516
+#: ../lib/yasr-ajax-functions.php:534
+msgid "Large"
+msgstr "Velké"
+
+#: ../lib/yasr-settings-functions.php:160
+msgid "Exclude Pages?"
+msgstr "Vynechat stránky?"
+
+#: ../lib/yasr-settings-functions.php:164
+#: ../lib/yasr-settings-functions.php:184
+msgid "Yes"
+msgstr "Ano"
+
+#: ../lib/yasr-settings-functions.php:169
+#: ../lib/yasr-settings-functions.php:189
+msgid "No"
+msgstr "Ne"
+
+#: ../lib/yasr-settings-functions.php:181
+msgid "Use only in custom post types?"
+msgstr "Používat pouze ve vlastních typech příspěvků?"
+
+#: ../lib/yasr-settings-functions.php:193
+msgid "You see this because you use custom post types."
+msgstr "To vidíte, protože používáte vlastní typy příspěvků."
+
+#: ../lib/yasr-settings-functions.php:195
+msgid "If you want to use auto insert only in custom post types, choose Yes"
+msgstr ""
+"Chcete-li použít automatické vkládání jen v vlastních typů příspěvků, zvolte "
+"možnost Ano"
+
+#: ../lib/yasr-settings-functions.php:240
+msgid ""
+"If you enable this, \"Overall Rating\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"Pokud povolíte toto, \"Celkové hodnocení\" se objeví nejen u příspěvku nebo "
+"stránky, ale také na stránkách, jako je domovská stránka, na stránkách "
+"kategorií nebo archivních."
+
+#: ../lib/yasr-settings-functions.php:267
+msgid ""
+"If you enable this, \"Visitor Votes\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"Pokud povolíte toto, \"Hlasy návštěvníků\" se objeví nejen u příspěvku nebo "
+"stránky, ale také na stránkách, jako je domovská stránka, na stránkách "
+"kategorií nebo archivních."
+
+#: ../lib/yasr-settings-functions.php:302
+msgid "Custom text to display before Overall Rating"
+msgstr "Vlastní text zobrazený před Celkovým hodnocením"
+
+#: ../lib/yasr-settings-functions.php:307
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "Vlastní text zobrazený PŘED hodnocením návštěvníka"
+
+#: ../lib/yasr-settings-functions.php:313
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "Vlastní text zobrazený ZA hodnocením návštěvníka"
+
+#: ../lib/yasr-settings-functions.php:318
+msgid "Custom text to display when a non logged user has already rated"
+msgstr ""
+"Vlastní text, který se zobrazí v případě, že nepřihlášený uživatel již "
+"hodnotil."
+
+#: ../lib/yasr-settings-functions.php:323
+msgid "Help"
+msgstr "Nápověda"
+
+#: ../lib/yasr-settings-functions.php:327
+msgid ""
+"In the first field you can use %overall_rating% pattern to show the overall "
+"rating."
+msgstr ""
+"V prvním poli můžete použít předloha %overall_rating% pro zobrazení "
+"celkového hodnocení."
+
+#: ../lib/yasr-settings-functions.php:331
+msgid ""
+"In the Second and Third fields you can use %total_count% pattern to show the "
+"total count, and %average% pattern to show the average"
+msgstr ""
+"Ve druhém a třetím poli můžete použít předlohu %total_count% pro zobrazení "
+"celkového poču a předlohu %average% pro zobrazení průměru"
+
+#: ../lib/yasr-settings-functions.php:381
+msgid "Allow only logged-in users"
+msgstr "Povolit pouze přihlášeným uživatelům"
+
+#: ../lib/yasr-settings-functions.php:385
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "Povolit všem (přihlášeným i anonymním)"
+
+#: ../lib/yasr-settings-functions.php:405
+msgid "Which rich snippet do you want to use?"
+msgstr "Který strukturovaný úryvek chcete používat?"
+
+#: ../lib/yasr-settings-functions.php:409
+msgid "Review Rating"
+msgstr "Přehledové hodnocení"
+
+#: ../lib/yasr-settings-functions.php:413
+msgid "Aggregate Rating"
+msgstr "Souhrnné hodnocení"
+
+#: ../lib/yasr-settings-functions.php:418
+msgid "What is this?"
+msgstr "Co je tohle?"
+
+#: ../lib/yasr-settings-functions.php:423
+msgid ""
+"If you select \"Review Rating\", your site will be indexed from search "
+"engines like this: "
+msgstr ""
+"Zvolíte-li \"Přehledové hodnocení\", budou vaše stránky vyhledavači "
+"indexovány takto:"
+
+#: ../lib/yasr-settings-functions.php:428
+msgid ""
+"If, instead, you choose \"Aggregate Rating\", your site will be indexed like "
+"this"
+msgstr ""
+"Pokud místo toho zvolíte \"Souhrnné hodnocení\", budou vaše stránky "
+"indexovány takhle:"
+
+#: ../lib/yasr-settings-functions.php:439
+msgid "Select default item type for all post or pages"
+msgstr "Vyberte výchozí typ položky pro všechny příspěvky nebo stránky"
+
+#: ../lib/yasr-settings-functions.php:444
+msgid "Product"
+msgstr "Výrobek"
+
+#: ../lib/yasr-settings-functions.php:448
+msgid "Place"
+msgstr "Místo"
+
+#: ../lib/yasr-settings-functions.php:452
+msgid "Recipe"
+msgstr "Návod"
+
+#: ../lib/yasr-settings-functions.php:456
+msgid "BlogPosting"
+msgstr "Příspěvek blogu"
+
+#: ../lib/yasr-settings-functions.php:462
+msgid ""
+"If you need to use BlogPosting as item type, even for just one post or page, "
+"please fill these forms"
+msgstr ""
+"Vyplňte prosím tento formulář i v případě, pokud potřebujete použít "
+"Příspěvek blogu i jen pro jediný příspěvek nebo stránku"
+
+#: ../lib/yasr-settings-functions.php:467
+msgid "Publisher name (e.g. Google)"
+msgstr "Jméno vydavatele (např. Google)"
+
+#: ../lib/yasr-settings-functions.php:472
+msgid "Logo Url (if empty siteicon will be used instead)"
+msgstr "URL loga (případně bude použita ikona webu)"
+
+#: ../lib/yasr-settings-functions.php:479
+msgid "You can always change it in the single post or page."
+msgstr "Toto můžete kdykoli změnit v konkrétním příspěvku nebo stránce."
+
+#: ../lib/yasr-settings-functions.php:481
+msgid ""
+"This will affect only the post/page where you didn't change manually the "
+"itemtype yet."
+msgstr ""
+"Toto bude mít vliv pouze příspěvek / stránku, kde jste ručně nezměnily typ "
+"položky."
+
+#: ../lib/yasr-settings-functions.php:520
+msgid "Stars"
+msgstr "Hvězdy"
+
+#: ../lib/yasr-settings-functions.php:524
+msgid "Numbers"
+msgstr "Čísla"
+
+#: ../lib/yasr-settings-functions.php:663
+msgid "Show average?"
+msgstr "Zobrazit průměr?"
+
+#: ../lib/yasr-settings-functions.php:705
+msgid ""
+"If you select no, the \"Average\" row will not be displayed. You can "
+"override this in the single multi set by using the parameter \"show_average\""
+msgstr ""
+"Pokud zvolíte Ne, řádek \"Průměr\" nebude zobrazen. Toto můžete přepsat v "
+"Obecných nastaveních pomocí parametru \"show_average\""
+
+#: ../lib/yasr-settings-functions.php:734
+msgid "Add New Multiple Set"
+msgstr "Přidat nové vícepoložkové hodnocení"
+
+#: ../lib/yasr-settings-functions.php:735
+msgid ""
+"Name, Element#1 and Element#2 MUST be filled and must be long at least 3 "
+"characters"
+msgstr ""
+"Název, Prvku#1 a Prvku#2 musí být vyplněn a musí být dlouhý alespoň 3 znaky"
+
+#: ../lib/yasr-settings-functions.php:738
+msgid "Name"
+msgstr "Název"
+
+#: ../lib/yasr-settings-functions.php:743
+msgid "You can insert up to nine elements"
+msgstr "Můžete vložit až devět prvků"
+
+#: ../lib/yasr-settings-functions.php:748
+msgid "Element "
+msgstr "Prvek"
+
+#: ../lib/yasr-settings-functions.php:758
+msgid "Create New Set"
+msgstr "Vytvořit novou sadu"
+
+#: ../lib/yasr-settings-functions.php:779
+#: ../lib/yasr-settings-functions.php:812
+msgid "Manage Multiple Set"
+msgstr "Spravovat vícepoložkové hodnocení"
+
+#: ../lib/yasr-settings-functions.php:781
+msgid "Wich set do you want to edit or remove?"
+msgstr "Kterou sadu chcete upravit nebo odstranit?"
+
+#: ../lib/yasr-settings-functions.php:822
+#: ../lib/yasr-settings-functions.php:940
+msgid "Field name"
+msgstr "Jméno pole"
+
+#: ../lib/yasr-settings-functions.php:826
+#: ../lib/yasr-settings-functions.php:944
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../lib/yasr-settings-functions.php:868
+#: ../lib/yasr-settings-functions.php:986
+msgid "Remove whole set?"
+msgstr "Odstranit celou sadu?"
+
+#: ../lib/yasr-settings-functions.php:881
+#: ../lib/yasr-settings-functions.php:999
+msgid ""
+"If you remove something you will remove all the votes for that set or field. "
+"This operation CAN'T BE undone."
+msgstr ""
+"Odstraníte-li něco, budou odstraněny všechny hlasy pro danou sadu nebo pole. "
+"Tuto operaci NELZE vrátit zpět."
+
+#: ../lib/yasr-settings-functions.php:888
+#: ../lib/yasr-settings-functions.php:1006
+msgid "You can use up to 9 elements"
+msgstr "Můžete použít až 9 prvků"
+
+#: ../lib/yasr-settings-functions.php:890
+#: ../lib/yasr-settings-functions.php:1008
+msgid "Add element"
+msgstr "Přidat prvek"
+
+#: ../lib/yasr-settings-functions.php:892
+#: ../lib/yasr-settings-functions.php:1010
+msgid "Save changes"
+msgstr "Uložit změny"
+
+#: ../lib/yasr-settings-functions.php:902
+msgid "No Multiple Set were found"
+msgstr "Nebyla nalezeno žádné vícepoložkové hodnocení"
+
+#: ../lib/yasr-settings-functions.php:1151
+#: ../lib/yasr-settings-functions.php:1451
+msgid "Settings Saved"
+msgstr "Nastavení uloženo"
+
+#: ../lib/yasr-settings-functions.php:1156
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr ""
+"Něco se pokazilo při pokusu vložit nastavit název pole. Prosím ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1162
+msgid "Something goes wrong trying insert Multi Set name. Please report it"
+msgstr ""
+"Něco se pokazilo při pokusu vložit název vícepoložkového hodnocení. Prosím "
+"ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1237
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr ""
+"Něco se pokazilo při pokusu odstranit vícepoložkové hodnocení. Prosím "
+"ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1283
+msgid ""
+"Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr ""
+"Něco se pokazilo při pokusu odstranit prvek vícepoložkového hodnocení. "
+"Prosím ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1347
+msgid ""
+"Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr ""
+"Něco se pokazilo při pokusu aktualizovat prvek vícepoložkového hodnocení. "
+"Prosím ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1436
+msgid ""
+"Something goes wrong trying to insert set field name in edit form. Please "
+"report it"
+msgstr ""
+"Něco se pokazilo při pokusu vložit nastavit název pole v editačním "
+"formuláři. Prosím ohlaste to"
+
+#: ../lib/yasr-settings-functions.php:1487
+msgid "Style Options"
+msgstr "Možnosti stylů"
+
+#: ../lib/yasr-settings-functions.php:1488
+msgid "Which color scheme do you want to use?"
+msgstr "Jaké barevné schéma chcete používat?"
+
+#: ../lib/yasr-settings-functions.php:1490
+msgid "Custom CSS Styles"
+msgstr "Vlastní CSS styly"
+
+#: ../lib/yasr-settings-functions.php:1507
+msgid "Light"
+msgstr "Světlé"
+
+#: ../lib/yasr-settings-functions.php:1512
+msgid "Dark"
+msgstr "Tmavé"
+
+#: ../lib/yasr-settings-functions.php:1517
+msgid "Preview"
+msgstr "Náhled"
+
+#: ../lib/yasr-settings-functions.php:1522
+msgid "Light theme"
+msgstr "Světlá šablona"
+
+#: ../lib/yasr-settings-functions.php:1527
+msgid "Dark theme"
+msgstr "Tmavá šablona"
+
+#: ../lib/yasr-settings-functions.php:1539
+msgid ""
+"Please use text area below to write your own CSS styles to override the "
+"default ones."
+msgstr ""
+"Použijte textové pole níže pro své vlastní CSS styly, které nahradí ty "
+"výchozí."
+
+#: ../lib/yasr-settings-functions.php:1541
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "Ponechte prázdné, pokud nevíte, co děláte."
+
+#: ../lib/yasr-settings-functions.php:1612
+msgid "Keep in touch!"
+msgstr "Zůstaňte v kontaktu!"
+
+#: ../lib/yasr-settings-functions.php:1655
+#, php-format
+msgid ""
+"Hey, seems like you reached %s votes on your site throught YASR! That's cool!"
+msgstr ""
+"Zdá se, že jste dosáhli %s hlasů na svých stránkách prostřednictvím YASR! To "
+"je super!"
+
+#: ../lib/yasr-settings-functions.php:1657
+msgid "Can I ask a favor?"
+msgstr "Mohu požádat o laskavost?"
+
+#: ../lib/yasr-settings-functions.php:1659
+msgid "Can you please rate YASR 5 stars on"
+msgstr "Můžete prosím ohodnotit YASR 5. hvězdičkami na"
+
+#: ../lib/yasr-settings-functions.php:1661
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr "Bude to vyžadovat jen 1 min, ale je to pro mne OBROVSKÁ pomoc. Děkuji."
+
+#: ../lib/yasr-settings-functions.php:1667
+msgid "Ok, I'm glad to help!"
+msgstr "OK, rád pomohu!"
+
+#: ../lib/yasr-settings-functions.php:1668
+msgid "Remind me later!"
+msgstr "Připomenout později!"
+
+#: ../lib/yasr-settings-functions.php:1669
+msgid "Don't need to ask, I already did it!"
+msgstr "Nemusíte se ptát, už jsem to udělal!"
+
+#: ../lib/yasr-settings-functions.php:1702
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\">Yet Another Stars "
+"Rating</a>. Please <a href=\"%s\" target=\"_blank\">rate it</a> 5 stars on "
+"<a href=\"%s\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"Děkujeme, že používáte <a href=\"%s\" target=\"_blank\">Yet Another Stars "
+"Rating</a>. Prosím <a href=\"%s\" target=\"_blank\">ohodnoťte jej</a> 5 "
+"hvězdičkami na <a href=\"%s\" target=\"_blank\">WordPress.org</a>"
+
+#: ../lib/yasr-settings-functions.php:1747
+msgid "No previous Gd Star Rating installation was found"
+msgstr "Nenašel jsem žádnou předchozí instalaci Gd Star Rating"
+
+#: ../lib/yasr-db-functions.php:437 ../lib/yasr-db-functions.php:580
+msgid "No recenet votes yet"
+msgstr "Zatím žádná nedávná hodnocení"
+
+#: ../lib/yasr-db-functions.php:452 ../lib/yasr-ajax-functions.php:851
+msgid "anonymous"
+msgstr "anonymní"
+
+#: ../lib/yasr-db-functions.php:461
+#, php-format
+msgid "Vote %d from %s on "
+msgstr "Hlas %d od %s dne "
+
+#: ../lib/yasr-db-functions.php:477 ../lib/yasr-db-functions.php:610
+#: ../lib/yasr-ajax-functions.php:876 ../lib/yasr-ajax-functions.php:1025
+msgid "Ip address"
+msgstr "IP adresa"
+
+#: ../lib/yasr-db-functions.php:498 ../lib/yasr-db-functions.php:631
+#: ../lib/yasr-ajax-functions.php:894 ../lib/yasr-ajax-functions.php:1044
+msgid "Pages"
+msgstr "Stránky"
+
+#: ../lib/yasr-db-functions.php:594 ../lib/yasr-ajax-functions.php:1009
+#, php-format
+msgid "You rated %s on "
+msgstr "Ohodnoceno %s dne"
+
+#: ../lib/yasr-functions.php:57
+msgid "bad, poor, ok, good, super"
+msgstr "špatný, slabý, ok, dobrý, super"
+
+#: ../lib/yasr-functions.php:217 ../lib/yasr-functions.php:218
+msgid "Yet Another Stars Rating: Settings"
+msgstr "YASR: Nastavení"
+
+#: ../lib/yasr-functions.php:267
+msgid "Yet Another Stars Rating: Multiple set"
+msgstr "YASR: Vícepoložkové hodnocení"
+
+#: ../lib/yasr-functions.php:278
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "Nemáte dostatečná oprávnění pro vložení Celkového hodnocení"
+
+#: ../lib/yasr-functions.php:288
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "Nemáte dostatečná oprávnění pro vložení vícepoložkového hodnocení"
+
+#: ../lib/yasr-functions.php:641
+msgid "Product, Place, Recipe, BlogPosting"
+msgstr "Výrobek, Místo, Návod, Příspěvek blogu"
+
+#: ../lib/yasr-admin-actions.php:67
+msgid "Choose Stars Set"
+msgstr "Výběr skupiny hvězd"
+
+#: ../lib/yasr-admin-actions.php:102
+msgid "Looking for more?"
+msgstr "Hledáte více?"
+
+#: ../lib/yasr-admin-actions.php:104
+#, php-format
+msgid "Take a look to the %s"
+msgstr "Podívejte se na %s"
+
+#: ../lib/yasr-widgets.php:43
+msgid "Yasr Overall Rating"
+msgstr "Yasr Celkové hodnocení"
+
+#: ../lib/yasr-widgets.php:45
+msgid "Display Overall Rating"
+msgstr "Zobrazit Celkové hodnocení"
+
+#: ../lib/yasr-widgets.php:104
+msgid "Our Rating:"
+msgstr "Naše hodnocení:"
+
+#: ../lib/yasr-widgets.php:123 ../lib/yasr-widgets.php:311
+msgid "Title:"
+msgstr "Titulek:"
+
+#: ../lib/yasr-widgets.php:127 ../lib/yasr-widgets.php:319
+msgid "Size:"
+msgstr "Velikost:"
+
+#: ../lib/yasr-widgets.php:207
+msgid "Yasr Visitor Votes"
+msgstr "Yasr Hlasy návštěvníků"
+
+#: ../lib/yasr-widgets.php:209
+msgid "Show Yasr Visitor Votes"
+msgstr "Zobrazit Yasr Hlasy návštěvníků"
+
+#: ../lib/yasr-widgets.php:280
+msgid "Rate This:"
+msgstr "Hodnotit toto:"
+
+#: ../lib/yasr-ajax-functions.php:109
+msgid "You've rated it "
+msgstr "Ohodnoceno"
+
+#: ../lib/yasr-ajax-functions.php:113
+msgid "You've reset the vote"
+msgstr "Hodnocení vynulováno"
+
+#: ../lib/yasr-ajax-functions.php:201
+msgid "Type Saved"
+msgstr "Typ uložen"
+
+#: ../lib/yasr-ajax-functions.php:204
+msgid ""
+"There was an error while trying to insert the review type. Please report it"
+msgstr "Při pokusu o vložení typu hodnocení došlo k chybě. Prosím ohlaste to"
+
+#: ../lib/yasr-ajax-functions.php:243
+msgid "Choose a vote for each element"
+msgstr "Hlasujte pro každý prvek"
+
+#: ../lib/yasr-ajax-functions.php:306 ../lib/yasr-ajax-functions.php:350
+msgid "If you want to insert this multiset, paste this shortcode "
+msgstr ""
+"Chcete-li vložit toto vícepoložkové hodnocení, vložte tento zkrácený kód"
+
+#: ../lib/yasr-ajax-functions.php:308 ../lib/yasr-ajax-functions.php:352
+msgid ""
+"If, instead, you want allow your visitor to vote on this multiset, use this "
+"shortcode"
+msgstr ""
+"Pokud místo toho chcete povolit, aby váš návštěvník mohl hlasovat v tomto "
+"vícepoložkovém hodnocení, použijte tento zkrácený kód"
+
+#: ../lib/yasr-ajax-functions.php:317
+msgid "Choose a vote for every element"
+msgstr "Hlasujte pro každý prvek"
+
+#: ../lib/yasr-ajax-functions.php:493
+msgid "Main"
+msgstr "Hlavní"
+
+#: ../lib/yasr-ajax-functions.php:494
+msgid "Charts"
+msgstr "Grafy"
+
+#: ../lib/yasr-ajax-functions.php:497
+msgid "Read the doc"
+msgstr "Přečíst dokumentaci"
+
+#: ../lib/yasr-ajax-functions.php:506
+msgid "Overall Rating / Review"
+msgstr "Celkové hodnocení / Recenze"
+
+#: ../lib/yasr-ajax-functions.php:508
+msgid "Insert Overall Rating"
+msgstr "Vložit Celkové hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:509
+msgid "Insert Overall Rating / Review for this post"
+msgstr "Vložit Celkové hodnocení / Recenzi pro tento příspěvek"
+
+#: ../lib/yasr-ajax-functions.php:512 ../lib/yasr-ajax-functions.php:530
+msgid "Choose Size"
+msgstr "Vyberte velikost"
+
+#: ../lib/yasr-ajax-functions.php:526
+msgid "Insert Visitor Votes"
+msgstr "Vložit Hlasy návštěvníků"
+
+#: ../lib/yasr-ajax-functions.php:527
+msgid "Insert the ability for your visitor to vote"
+msgstr "Vložte schopnost návštěvníků hlasovat"
+
+#: ../lib/yasr-ajax-functions.php:544
+msgid "If you want to insert a Multi Set, pick one:"
+msgstr "Chcete-li vložit vícepoložkové hodnocení, vyberte nějaké:"
+
+#: ../lib/yasr-ajax-functions.php:550
+msgid "Choose wich set you want to insert."
+msgstr "Vyberte si, kterou sadu chcete vložit."
+
+#: ../lib/yasr-ajax-functions.php:553 ../lib/yasr-ajax-functions.php:576
+msgid "Readonly?"
+msgstr "Pouze pro čtení?"
+
+#: ../lib/yasr-ajax-functions.php:556 ../lib/yasr-ajax-functions.php:579
+msgid ""
+"If Readonly is checked, only you can insert the votes (in the box above the "
+"editor)"
+msgstr ""
+"Je-li vybráno pouze pro čtení, vložit hlasy můžete jen vy (v poli nad "
+"editorem)"
+
+#: ../lib/yasr-ajax-functions.php:559 ../lib/yasr-ajax-functions.php:582
+msgid "Hide Average?"
+msgstr "Skrýt průměr?"
+
+#: ../lib/yasr-ajax-functions.php:563
+msgid "Insert Multi Set"
+msgstr "Vložit vícepoložkové hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:573
+msgid "Insert Multiset:"
+msgstr "Vložit vícepoložkové hodnocení:"
+
+#: ../lib/yasr-ajax-functions.php:587
+msgid "Insert Multiple Set"
+msgstr "Vložit vícepoložkové hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:603
+msgid "Ranking reviews"
+msgstr "Žebříček hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:604
+msgid "Insert Ranking reviews"
+msgstr "Vložit pořadí hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:605
+msgid "Insert Top 10 ranking for [yasr_overall_rating] shortcode"
+msgstr "Vložit 10 nejlépe hodnocených [yasr_overall_rating] zkrácený kód"
+
+#: ../lib/yasr-ajax-functions.php:609
+msgid "Users' ranking"
+msgstr "Pořadí uživatelů"
+
+#: ../lib/yasr-ajax-functions.php:610
+msgid "Insert Users ranking"
+msgstr "Vložit pořadí uživatelů"
+
+#: ../lib/yasr-ajax-functions.php:611
+msgid "Insert Top 10 ranking for [yasr_visitor_votes] shortcode"
+msgstr "Vložit 10 nejlépe hodnocených [yasr_overall_rating] zkrácený kód"
+
+#: ../lib/yasr-ajax-functions.php:615
+msgid "Most active reviewers"
+msgstr "Nejaktivnější hodnotitelé"
+
+#: ../lib/yasr-ajax-functions.php:616
+msgid "Insert Most Active Reviewers"
+msgstr "Vložit nejaktivnější hodnotitele"
+
+#: ../lib/yasr-ajax-functions.php:617
+msgid "Insert Top 5 active reviewers"
+msgstr "Vložit 5 nejaktivnějších hodnotitelů"
+
+#: ../lib/yasr-ajax-functions.php:621
+msgid "Most Active Users"
+msgstr "Nejaktivnější uživatelé"
+
+#: ../lib/yasr-ajax-functions.php:622
+msgid "Insert Most Active Users"
+msgstr "Vložit nejaktivnější uživatele"
+
+#: ../lib/yasr-ajax-functions.php:623
+msgid "Insert Top 10 voters [yasr_visitor_votes] shortcode"
+msgstr "Vložit 10 NEJ hlasujících [yasr_visitor_votes] zkrácený kód"
+
+#: ../lib/yasr-ajax-functions.php:696
+msgid "Reviews and Visitor Votes have been successfull imported."
+msgstr "Hodnocení a Hlasy návštěvníků byly úspěšně importovány."
+
+#: ../lib/yasr-ajax-functions.php:702
+msgid ""
+"Step2: I will check if you used Multiple Sets and if so I will import them. "
+"THIS MAY TAKE A WHILE!"
+msgstr ""
+"Krok2: Zkontroluji, zda jste použili vícepoložková hodnocení a pokud ano, "
+"budu je importovat. TO MŮŽE CHVÍLI TRVAT!"
+
+#: ../lib/yasr-ajax-functions.php:704
+msgid "Proceed Step 2"
+msgstr "Pokračovat krokem 2"
+
+#: ../lib/yasr-ajax-functions.php:711
+msgid "Something goes wrong! Refresh the page and try again!"
+msgstr "Něco se pokazilo! Obnovte stránku a zkuste to znovu!"
+
+#: ../lib/yasr-ajax-functions.php:740
+msgid "I've found Multiple Set! Importing..."
+msgstr "Našel jsem vícepoložkové hodnocení! Importuji..."
+
+#: ../lib/yasr-ajax-functions.php:749
+msgid "Multi Set's name has been successfull imported."
+msgstr "Název vícepoložkového hodnocení byl úspěšně importován."
+
+#: ../lib/yasr-ajax-functions.php:751
+msgid "Now I'm going to import Multi Set data"
+msgstr "Nyní budu importovat data vícepoložkového hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:762
+msgid "All votes has been successfull imported."
+msgstr "Všechny hlasy byly úspěšně importovány."
+
+#: ../lib/yasr-ajax-functions.php:764
+msgid "Done"
+msgstr "Hotovo"
+
+#: ../lib/yasr-ajax-functions.php:769
+msgid "I've found Multiple Set's votes but I couldn't insert into db"
+msgstr ""
+"Našel jsem hlasy vícepoložkového hodnocení, ale nemohu je vložit do DB."
+
+#: ../lib/yasr-ajax-functions.php:777
+msgid "I've found Multi Set but with no data"
+msgstr "Našel jsem vícepoložkové hodnocení, ale bez dat"
+
+#: ../lib/yasr-ajax-functions.php:786
+msgid "I've found Multi Sets names but I couldn't insert into db"
+msgstr ""
+"Našel jsem hlasy vícepoložkových hodnocení, ale nemohu je vložit do DB."
+
+#: ../lib/yasr-ajax-functions.php:794
+msgid "Multisets were not found. Imported is done!"
+msgstr "Vícepoložková hodnocení nebyla nalezena. Import je hotov!"
+
+#: ../lib/yasr-ajax-functions.php:838 ../lib/yasr-ajax-functions.php:997
+msgid "No Recenet votes yet"
+msgstr "Zatím žádná hodnocení"
+
+#: ../lib/yasr-ajax-functions.php:860
+#, php-format
+msgid "Vote %d from %s on"
+msgstr "Hlas %d od %s dne"
+
+#: ../lib/yasr-ajax-functions.php:1211 ../lib/yasr-ajax-functions.php:1368
+msgid "Error: you can't vote 0"
+msgstr "Chyba: nemůžete hlasovat 0"
+
+#: ../lib/yasr-ajax-functions.php:1316 ../lib/yasr-ajax-functions.php:1324
+msgid "Average:"
+msgstr "Průměr:"
+
+#: ../lib/yasr-ajax-functions.php:1317 ../lib/yasr-ajax-functions.php:1325
+msgid "Vote Saved"
+msgstr "Hlas uložen"
+
+#: ../lib/yasr-ajax-functions.php:1465
+msgid "Vote updated"
+msgstr "Hlas aktualizován"
+
+#: ../lib/yasr-ajax-functions.php:1613
+msgid "Rating saved!"
+msgstr "Hodnocení uloženo!"
+
+#: ../lib/yasr-ajax-functions.php:1619
+msgid "Rating not saved. Please Try again"
+msgstr "Hodnocení nebylo uloženo. Zkuste to prosím znovu."
+
+#: ../lib/yasr-ajax-functions.php:1712
+msgid "stars"
+msgstr "hvězd"
+
+#: ../lib/yasr-ajax-functions.php:1717
+msgid "star"
+msgstr "hvězda"

@@ -1,0 +1,1243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YASR lenguages\n"
+"POT-Creation-Date: 2016-02-08 13:41+0100\n"
+"PO-Revision-Date: 2016-02-08 13:41+0100\n"
+"Last-Translator: Dario <thedudoworld@gmail.com>\n"
+"Language-Team: \n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../lib\n"
+
+#: ../yasr-metabox-top-right.php:75 ../yasr-metabox-top-right.php:109
+msgid "Rate this article / item"
+msgstr "Vurder denne artikkelen/dette elementet"
+
+#: ../yasr-metabox-top-right.php:81 ../lib/yasr-shortcode-functions.php:504
+#: ../lib/yasr-functions.php:55
+msgid "Loading, please wait"
+msgstr "Laster. Vennligst vent."
+
+#: ../yasr-metabox-top-right.php:157
+msgid "Save Vote"
+msgstr "Lagre vurdering"
+
+#: ../yasr-metabox-top-right.php:176
+msgid "This review is about a..."
+msgstr "Dette er en vurdering av..."
+
+#: ../yasr-metabox-top-right.php:181 ../yasr-metabox-multiple-rating.php:46
+#: ../lib/yasr-settings-functions.php:656
+msgid "Select"
+msgstr "Velg"
+
+#: ../yasr-metabox-top-right.php:199
+msgid ""
+"Remember to insert this shortcode <strong>[yasr_overall_rating]</strong> "
+"where you want to display this rating"
+msgstr ""
+"Husk å legge inn dennne kodesnutten, <strong>[yasr_overall_rating]</"
+"strong>,  der hvor du ønsker at vurderingen skal vises"
+
+#: ../yasr-settings-page.php:24 ../lib/yasr-functions.php:147
+#: ../lib/yasr-ajax-functions.php:45 ../lib/yasr-ajax-functions.php:142
+#: ../lib/yasr-ajax-functions.php:228 ../lib/yasr-ajax-functions.php:386
+#: ../lib/yasr-ajax-functions.php:797 ../lib/yasr-ajax-functions.php:1111
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke tilstrekkelig tillatelse til å få tilgang til denne siden."
+
+#: ../yasr-settings-page.php:38
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../yasr-settings-page.php:82
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: ../yasr-settings-page.php:83
+msgid "Multi Sets"
+msgstr "Multisett"
+
+#: ../yasr-settings-page.php:84
+#, fuzzy
+msgid "Aspect & Styles"
+msgstr "Egentilpassede CSS-stiler"
+
+#: ../yasr-settings-page.php:86
+msgid "Extensions"
+msgstr ""
+
+#: ../yasr-settings-page.php:103 ../yasr-settings-page.php:263
+#: ../yasr-settings-page.php:294
+msgid "Save"
+msgstr "Lagre"
+
+#: ../yasr-settings-page.php:128
+msgid "Import Gd Star Rating"
+msgstr "Importer Gd-stjernevurdering"
+
+#: ../yasr-settings-page.php:129
+msgid "I've found a previous installation of Gd Star Rating."
+msgstr "Jeg fant en tidligere installasjon av Gd-stjernevurdering"
+
+#: ../yasr-settings-page.php:129
+msgid "Do you want proceed to import data?"
+msgstr "Vil du fortsette og importere data?"
+
+#: ../yasr-settings-page.php:131
+msgid "Yes, Begin Import"
+msgstr "Ja, start importeringen"
+
+#: ../yasr-settings-page.php:135
+msgid "Click on Proceed to import Gd Star Rating data."
+msgstr "Klikk på \"Fortsett\" for å importere data fra Gd-stjernevurdering."
+
+#: ../yasr-settings-page.php:138 ../yasr-settings-page.php:171
+msgid "Proceed"
+msgstr "Fortsett"
+
+#: ../yasr-settings-page.php:160
+msgid "Manage GD Star Data"
+msgstr "Administrer Gd-stjernevurdering"
+
+#: ../yasr-settings-page.php:161
+msgid "Gd Star Rating has been already imported."
+msgstr "Gd-stjernevurdering har allerede blitt importert."
+
+#: ../yasr-settings-page.php:162
+msgid "If you wish you can import it again, but"
+msgstr "Dersom du ønsker kan du importere en gang til, men"
+
+#: ../yasr-settings-page.php:162
+msgid "you will lose all data you've collect since the import!"
+msgstr "du vil miste alle data du har samlet inn siden importeringen."
+
+#: ../yasr-settings-page.php:164
+msgid "Ok, Import Again"
+msgstr "OK, importer en gang til"
+
+#: ../yasr-settings-page.php:168
+msgid ""
+"Click on Proceed to import again Gd Star Rating data. This may take a while!"
+msgstr ""
+"Klikk på \"Fortsett\" for å importere Gd-stjernevurdering en gang til. Dette "
+"kan ta en stund."
+
+#: ../yasr-settings-page.php:205
+msgid "Manage Multi Set"
+msgstr "Administrer multisett"
+
+#: ../yasr-settings-page.php:209
+msgid "What is a Multi Set?"
+msgstr "Hva er et multisett?"
+
+#: ../yasr-settings-page.php:214
+msgid ""
+"Multi Set allows you to insert a rate for each aspect about the product / "
+"local business / whetever you're reviewing, example in the image below."
+msgstr ""
+"Et multisett lar deg legge inn en vurdering av ulike aspekter ved produktet, "
+"bedriften, eller hva enn du vurderer. Du kan se et eksempel på bildet "
+"nedenfor."
+
+#: ../yasr-settings-page.php:218
+msgid ""
+"You can create up to 99 different Multi Set and each one can contain up to 9 "
+"different fields. Once you've saved it, you can insert the rates while "
+"typing your article in the box below the editor, as you can see in this "
+"image (click to see it larger)"
+msgstr ""
+"Du kan opprette opptil 99 ulike multisett, og hver av disse kan inneholde "
+"opptil 9 ulike felter. Så snart du har lagret et sett, kan du legge inn "
+"vurderingene dine mens du skriver artikkelen din inn i boksen nedenfor "
+"redigeringsvinduet. Dette kan du se på dette bildet (klikk for å forstørre)"
+
+#: ../yasr-settings-page.php:222
+msgid ""
+"In order to insert your Multi Sets into a post or page, you can either past "
+"the short code that will appear at the bottom of the box or just click on "
+"the star in the graphic editor and select \"Insert Multi Set\"."
+msgstr ""
+"Du kan legge inn multisettene dine i et innlegg eller på en side på to ulike "
+"måter: Du kan legge inn kodesnutten du ser i bunnen av boksen, eller du kan "
+"klikke på stjernen i redigeringsvinduet og så klikke \"Legg inn multisett\"."
+
+#: ../yasr-settings-page.php:228
+msgid "Close this message"
+msgstr "Lukk denne meldingen"
+
+#: ../yasr-settings-page.php:320
+#, fuzzy
+msgid "Extensions for Yet Another Stars Rating"
+msgstr "Yet Another Stars Rating: Innstillinger"
+
+#: ../yasr-settings-page.php:323
+msgid "Extensions add functionality to your Yasr installation"
+msgstr ""
+
+#: ../yasr-settings-page.php:338
+msgid ""
+"Start accepting reviews and ratings for your post or pages using Yasr User "
+"Reviews extension."
+msgstr ""
+
+#: ../yasr-settings-page.php:356 ../yasr-settings-page.php:394
+#: ../yasr-settings-page.php:432
+msgid "Get this extension"
+msgstr ""
+
+#: ../yasr-settings-page.php:376
+#, fuzzy
+msgid "Choose between ready to use image or upload your own!"
+msgstr ""
+"Brukere kan velge ulike sett som er klare for å brukes, eller de kan laste "
+"opp sine egne bilder"
+
+#: ../yasr-settings-page.php:414
+msgid "Unleash all the power of your rankings with just a click!"
+msgstr ""
+
+#: ../yasr-metabox-multiple-rating.php:35
+msgid "Choose wich set you want to use"
+msgstr "Velg hvilket sett du vil bruke"
+
+#: ../lib/yasr-shortcode-functions.php:187
+#: ../lib/yasr-shortcode-functions.php:212
+msgid "You've already voted this article with"
+msgstr "Du har allerede gitt din vurdering. Du ga karaktereren "
+
+#: ../lib/yasr-shortcode-functions.php:237
+#: ../lib/yasr-shortcode-functions.php:533
+#, fuzzy
+msgid "You must sign in to vote"
+msgstr "Du må logge inn for å vurdere"
+
+#: ../lib/yasr-shortcode-functions.php:279 ../lib/yasr-ajax-functions.php:1300
+#: ../lib/yasr-ajax-functions.php:1308 ../lib/yasr-ajax-functions.php:1447
+msgid "Total: "
+msgstr "Totalt:"
+
+#: ../lib/yasr-shortcode-functions.php:279
+msgid "Average: "
+msgstr "Gjennomsnitt:"
+
+#: ../lib/yasr-shortcode-functions.php:506
+msgid "Submit!"
+msgstr ""
+
+#: ../lib/yasr-shortcode-functions.php:512
+#, fuzzy
+msgid "Thank you for voting! "
+msgstr "Tusen takk!"
+
+#: ../lib/yasr-shortcode-functions.php:721
+msgid "Rating"
+msgstr "Vurdering"
+
+#: ../lib/yasr-shortcode-functions.php:735
+msgid "You don't have any votes stored"
+msgstr "Du har ingen vurderinger lagret"
+
+#: ../lib/yasr-shortcode-functions.php:771
+#: ../lib/yasr-shortcode-functions.php:810
+msgid "Post / Page"
+msgstr "Innlegg / side"
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Order By"
+msgstr "Sorter basert på "
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Most Rated"
+msgstr "Flest vurderinger"
+
+#: ../lib/yasr-shortcode-functions.php:772
+#: ../lib/yasr-shortcode-functions.php:811
+msgid "Highest Rated"
+msgstr "Høyest vurdering"
+
+#: ../lib/yasr-shortcode-functions.php:790
+#: ../lib/yasr-shortcode-functions.php:825
+msgid "Total:"
+msgstr "Total:"
+
+#: ../lib/yasr-shortcode-functions.php:790
+#: ../lib/yasr-shortcode-functions.php:825
+msgid "Average"
+msgstr "Gjennomsnittlig "
+
+#: ../lib/yasr-shortcode-functions.php:802
+msgid "You've not enough data"
+msgstr "Du har ikke nok data"
+
+#: ../lib/yasr-shortcode-functions.php:837
+msgid "You've not enought data"
+msgstr "Du har ikke nok data"
+
+#: ../lib/yasr-shortcode-functions.php:922
+msgid ""
+"Problem while retrieving the top 5 most active reviewers. Did you publish "
+"any review?"
+msgstr ""
+"Problem oppsto mens vi hentet de 5 mest aktive anmelderne . Har du publisert "
+"en omtale?"
+
+#: ../lib/yasr-shortcode-functions.php:990
+msgid ""
+"Problem while retrieving the top 10 active users chart. Are you sure you "
+"have votes to show?"
+msgstr ""
+"Problem oppsto mens vi hentet de 5 mest aktive brukerne. Er du sikker på at "
+"du har vurderinger som kan vises?"
+
+#: ../lib/yasr-shortcode-functions.php:1027
+#, php-format
+msgid "based on %d votes"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:68
+msgid "General settings"
+msgstr "Generelle innstillinger"
+
+#: ../lib/yasr-settings-functions.php:69
+msgid "Auto insert options"
+msgstr "Automatiske innleggingsalternativer"
+
+#: ../lib/yasr-settings-functions.php:70
+msgid "Show \"Overall Rating\" in Archive Page?"
+msgstr "Vis \"Helhetsvurdering\" på arkivsiden?"
+
+#: ../lib/yasr-settings-functions.php:71
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "Vis \"Besøkendes vurderinger\" på arkivsiden?"
+
+#: ../lib/yasr-settings-functions.php:72
+msgid "Insert custom text to show before / after stars"
+msgstr "Legg inn egentilpasset tekst som vises før/etter stjernene"
+
+#: ../lib/yasr-settings-functions.php:73
+msgid "Do you want show stats for visitors votes?"
+msgstr "Vil du vise statistikker for besøkendes vurderinger?"
+
+#: ../lib/yasr-settings-functions.php:74
+msgid "Allow only logged in user to vote?"
+msgstr "Tillat kun innloggede brukere å legge inn en vurdering?"
+
+#: ../lib/yasr-settings-functions.php:75
+#, fuzzy
+msgid "Rich snippet options"
+msgstr "Støtte for rikt tekstutdrag"
+
+#: ../lib/yasr-settings-functions.php:76
+msgid "How do you want to rate \"Overall Rating\"?"
+msgstr "Hvordan ønsker du å vurdere \"Helhetsvurdering\"?"
+
+#: ../lib/yasr-settings-functions.php:90
+msgid "Use Auto Insert?"
+msgstr "Bruk automatisk innlegging?"
+
+#: ../lib/yasr-settings-functions.php:96
+#: ../lib/yasr-settings-functions.php:180
+#: ../lib/yasr-settings-functions.php:200
+#: ../lib/yasr-settings-functions.php:244
+#: ../lib/yasr-settings-functions.php:270
+#: ../lib/yasr-settings-functions.php:304
+#: ../lib/yasr-settings-functions.php:359
+msgid "Yes"
+msgstr "Ja"
+
+#: ../lib/yasr-settings-functions.php:110
+#: ../lib/yasr-settings-functions.php:185
+#: ../lib/yasr-settings-functions.php:205
+#: ../lib/yasr-settings-functions.php:249
+#: ../lib/yasr-settings-functions.php:275
+#: ../lib/yasr-settings-functions.php:309
+#: ../lib/yasr-settings-functions.php:364
+msgid "No"
+msgstr "Nei"
+
+#: ../lib/yasr-settings-functions.php:118
+msgid "What?"
+msgstr "Hva?"
+
+#: ../lib/yasr-settings-functions.php:123
+msgid "Overall Rating / Author Rating"
+msgstr "Helhetsvurdering / skribentvurdering"
+
+#: ../lib/yasr-settings-functions.php:127 ../lib/yasr-ajax-functions.php:524
+msgid "Visitor Votes"
+msgstr "Besøkendes vurderinger"
+
+#: ../lib/yasr-settings-functions.php:131
+msgid "Both"
+msgstr "Begge"
+
+#: ../lib/yasr-settings-functions.php:137
+msgid "Where?"
+msgstr "Hvor?"
+
+#: ../lib/yasr-settings-functions.php:142
+msgid "Before the post"
+msgstr "Før innlegget"
+
+#: ../lib/yasr-settings-functions.php:146
+msgid "After the post"
+msgstr "Etter innlegget"
+
+#: ../lib/yasr-settings-functions.php:153
+msgid "Size"
+msgstr "Størrelse"
+
+#: ../lib/yasr-settings-functions.php:159 ../lib/yasr-ajax-functions.php:514
+#: ../lib/yasr-ajax-functions.php:532
+msgid "Small"
+msgstr "Liten"
+
+#: ../lib/yasr-settings-functions.php:164 ../lib/yasr-ajax-functions.php:515
+#: ../lib/yasr-ajax-functions.php:533
+msgid "Medium"
+msgstr "Middels"
+
+#: ../lib/yasr-settings-functions.php:169 ../lib/yasr-ajax-functions.php:516
+#: ../lib/yasr-ajax-functions.php:534
+msgid "Large"
+msgstr "Stor"
+
+#: ../lib/yasr-settings-functions.php:176
+msgid "Exclude Pages?"
+msgstr "Ekskluder visse sider?"
+
+#: ../lib/yasr-settings-functions.php:197
+msgid "Use only in custom post types?"
+msgstr "Bruk kun i egentilpassede innleggstyper?"
+
+#: ../lib/yasr-settings-functions.php:209
+msgid "You see this because you use custom post types."
+msgstr "Du ser denne fordi du benytter egentilpassede innleggstyper."
+
+#: ../lib/yasr-settings-functions.php:211
+msgid "If you want to use auto insert only in custom post types, choose Yes"
+msgstr ""
+"Velg \"Ja\" dersom du kun ønsker å bruke automatisk innlegging i "
+"egentilpassede innleggstyper"
+
+#: ../lib/yasr-settings-functions.php:253
+msgid ""
+"If you enable this, \"Overall Rating\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"Dersom du aktiverer dette, vil \"Helhetsvurdering\" ikke bare vises i "
+"enkeltartikler og på sider, men også på andre sider som startsiden, "
+"kategorisider eller i arkiver."
+
+#: ../lib/yasr-settings-functions.php:279
+msgid ""
+"If you enable this, \"Visitor Votes\" will be showed not only in the single "
+"article or page, but also in pages like Home Page, category pages or "
+"archives."
+msgstr ""
+"Dersom du aktiverer denne, vil \"Besøkendes vurderinger\" ikke bare vises i "
+"enkeltartikler og på sider, men også på andre sider som startsiden, "
+"kategorisider eller i arkiver."
+
+#: ../lib/yasr-settings-functions.php:314
+msgid "Custom text to display before Overall Rating"
+msgstr "Egentilpasset tekst som vises før helhetsvurderingen"
+
+#: ../lib/yasr-settings-functions.php:319
+#, fuzzy
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "Egentilpasset tekst som vises før besøkendes vurdering"
+
+#: ../lib/yasr-settings-functions.php:325
+#, fuzzy
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "Egentilpasset tekst som vises før besøkendes vurdering"
+
+#: ../lib/yasr-settings-functions.php:330
+msgid "Custom text to display when a non logged user has already rated"
+msgstr ""
+"Egentilpasset tekst som vises når en bruker som ikke er innlogget allerede "
+"har gitt sin vurdering"
+
+#: ../lib/yasr-settings-functions.php:335
+msgid "Help"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:339
+msgid ""
+"In the first field you can use %overall_rating% pattern to show the overall "
+"rating."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:343
+msgid ""
+"In the Second and Third fields you can use %total_count% pattern to show the "
+"total count, and %average% pattern to show the average"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:382
+msgid "Allow only logged-in users"
+msgstr "Tillat kun innloggede brukere"
+
+#: ../lib/yasr-settings-functions.php:386
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "Tillat alle (innloggede og anonyme)"
+
+#: ../lib/yasr-settings-functions.php:406
+#, fuzzy
+msgid "Which rich snippet do you want to use?"
+msgstr "Hvilken rikt tekstutdrag ønsker du å bruke? "
+
+#: ../lib/yasr-settings-functions.php:410
+msgid "Review Rating"
+msgstr "Vurdering"
+
+#: ../lib/yasr-settings-functions.php:414
+msgid "Aggregate Rating"
+msgstr "Aggregert vurdering"
+
+#: ../lib/yasr-settings-functions.php:419
+msgid "What is this?"
+msgstr "Hva er dette?"
+
+#: ../lib/yasr-settings-functions.php:424
+msgid ""
+"If you select \"Review Rating\", your site will be indexed from search "
+"engines like this: "
+msgstr ""
+"Dersom du velger \"Helhetsvurdering\", så vil siden din bli indeksert av "
+"søkemotorer på denne måten:"
+
+#: ../lib/yasr-settings-functions.php:429
+msgid ""
+"If, instead, you choose \"Aggregate Rating\", your site will be indexed like "
+"this"
+msgstr ""
+"Dersom du istedenfor velger \"Aggregert vurdering\", så vil siden din bli "
+"indeksert på denne måten:"
+
+#: ../lib/yasr-settings-functions.php:440
+msgid "Select default item type for all post or pages"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:445
+msgid "Product"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:449
+msgid "Place"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:453
+msgid "Recipe"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:457
+msgid "BlogPosting"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:463
+msgid ""
+"If you need to use BlogPosting as item type, even for just one post or page, "
+"please fill these forms"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:468
+msgid "Publisher name (e.g. Google)"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:473
+msgid "Logo Url (if empty siteicon will be used instead)"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:480
+msgid "You can always change it in the single post or page."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:482
+msgid ""
+"This will affect only the post/page where you didn't change manually the "
+"itemtype yet."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:521
+msgid "Stars"
+msgstr "Stjerner"
+
+#: ../lib/yasr-settings-functions.php:525
+msgid "Numbers"
+msgstr "Tall"
+
+#: ../lib/yasr-settings-functions.php:601
+msgid "Add New Multiple Set"
+msgstr "Legg til nytt multisett"
+
+#: ../lib/yasr-settings-functions.php:602
+msgid ""
+"Name, Element#1 and Element#2 MUST be filled and must be long at least 3 "
+"characters"
+msgstr "Navn, Element#1 og Element#2 MÅ fylles ut og inneholde minst tre tegn"
+
+#: ../lib/yasr-settings-functions.php:605
+msgid "Name"
+msgstr "Navn"
+
+#: ../lib/yasr-settings-functions.php:610
+msgid "You can insert up to nine elements"
+msgstr "Du kan legge inn opptil ni elementer"
+
+#: ../lib/yasr-settings-functions.php:615
+msgid "Element "
+msgstr "Element"
+
+#: ../lib/yasr-settings-functions.php:625
+msgid "Create New Set"
+msgstr "Opprett nytt sett"
+
+#: ../lib/yasr-settings-functions.php:646
+#: ../lib/yasr-settings-functions.php:679
+msgid "Manage Multiple Set"
+msgstr "Administrer multisett"
+
+#: ../lib/yasr-settings-functions.php:648
+msgid "Wich set do you want to edit or remove?"
+msgstr "Hvilket sett ønsker du å endre eller slette?"
+
+#: ../lib/yasr-settings-functions.php:689
+#: ../lib/yasr-settings-functions.php:807
+msgid "Field name"
+msgstr "Feltnavn"
+
+#: ../lib/yasr-settings-functions.php:693
+#: ../lib/yasr-settings-functions.php:811
+msgid "Remove"
+msgstr "Slett"
+
+#: ../lib/yasr-settings-functions.php:735
+#: ../lib/yasr-settings-functions.php:853
+msgid "Remove whole set?"
+msgstr "Slett hele settet?"
+
+#: ../lib/yasr-settings-functions.php:748
+#: ../lib/yasr-settings-functions.php:866
+msgid ""
+"If you remove something you will remove all the votes for that set or field. "
+"This operation CAN'T BE undone."
+msgstr ""
+"Hvis du sletter noe, så sletter du også alle vurderinger for det settet "
+"eller feltet. Denne handlingen er endelig, og du kan ikke angre deg i "
+"etterkant."
+
+#: ../lib/yasr-settings-functions.php:755
+#: ../lib/yasr-settings-functions.php:873
+msgid "You can use up to 9 elements"
+msgstr "Du kan bruke opptil ni elementer"
+
+#: ../lib/yasr-settings-functions.php:757
+#: ../lib/yasr-settings-functions.php:875
+msgid "Add element"
+msgstr "Legg til element"
+
+#: ../lib/yasr-settings-functions.php:759
+#: ../lib/yasr-settings-functions.php:877
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: ../lib/yasr-settings-functions.php:769
+msgid "No Multiple Set were found"
+msgstr "Vi fant ingen multisett"
+
+#: ../lib/yasr-settings-functions.php:1018
+#: ../lib/yasr-settings-functions.php:1318
+msgid "Settings Saved"
+msgstr "Instillinger lagret"
+
+#: ../lib/yasr-settings-functions.php:1023
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr ""
+"Noe går galt mens vi forsøker å legge inn feltnavn i settet. Vennligst "
+"rapporter dette."
+
+#: ../lib/yasr-settings-functions.php:1029
+msgid "Something goes wrong trying insert Multi Set name. Please report it"
+msgstr ""
+"Noe går galt mens vi forsøker å legge inn navn på multisett. Vennligst "
+"rapporter dette."
+
+#: ../lib/yasr-settings-functions.php:1104
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr ""
+"Noe går galt mens vi forsøker å slette et multisett. Vennligst rapporter "
+"dette."
+
+#: ../lib/yasr-settings-functions.php:1150
+msgid ""
+"Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr ""
+"Noe går galt mens vi forsøker å slette et element i multisettet. Vennligst "
+"rapporter dette."
+
+#: ../lib/yasr-settings-functions.php:1214
+msgid ""
+"Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr ""
+"Noe går galt mens vi forsøker å oppdatere et element i multisettet. "
+"Vennligst rapporter dette."
+
+#: ../lib/yasr-settings-functions.php:1303
+msgid ""
+"Something goes wrong trying to insert set field name in edit form. Please "
+"report it"
+msgstr ""
+"Noe går galt mens vi forsøker å legge inn feltnavn i settet i endre-modus. "
+"Vennligst rapporter dette."
+
+#: ../lib/yasr-settings-functions.php:1351
+msgid "Style Options"
+msgstr "Stilvalg"
+
+#: ../lib/yasr-settings-functions.php:1352
+msgid "Which color scheme do you want to use?"
+msgstr "Hvilket fargevalg ønsker du å benytte?"
+
+#: ../lib/yasr-settings-functions.php:1370
+msgid "Select the set you've uploaded"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1371
+#, fuzzy
+msgid "Choose Stars Set"
+msgstr "Velg størrelse"
+
+#: ../lib/yasr-settings-functions.php:1375
+msgid "Custom CSS Styles"
+msgstr "Egentilpassede CSS-stiler"
+
+#: ../lib/yasr-settings-functions.php:1390
+msgid "Light"
+msgstr "Lyst"
+
+#: ../lib/yasr-settings-functions.php:1395
+msgid "Dark"
+msgstr "Mørkt"
+
+#: ../lib/yasr-settings-functions.php:1400
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: ../lib/yasr-settings-functions.php:1405
+msgid "Light theme"
+msgstr "Lyst tema"
+
+#: ../lib/yasr-settings-functions.php:1410
+#, fuzzy
+msgid "Dark theme"
+msgstr "Mørkt tema"
+
+#: ../lib/yasr-settings-functions.php:1422
+msgid ""
+"Please use text area below to write your own CSS styles to override the "
+"default ones."
+msgstr ""
+"Vennligst benytt tekstområdet nedenfor for å legge inn dine egne CSS-stiler. "
+"Disse overstyrer standardstilene."
+
+#: ../lib/yasr-settings-functions.php:1424
+#, fuzzy
+msgid "Leave it blank if you don't know what you're doing."
+msgstr " Ikke legg inn noe her med mindre du vet hva du holder på med."
+
+#: ../lib/yasr-settings-functions.php:1495
+msgid "Keep in touch!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1538
+#, php-format
+msgid ""
+"Hey, seems like you reached %s votes on your site throught YASR! That's cool!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1540
+msgid "Can I ask a favor?"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1542
+msgid "Can you please rate YASR 5 stars on"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1544
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1550
+msgid "Ok, I'm glad to help!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1551
+msgid "Remind me later!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1552
+msgid "Don't need to ask, I already did it!"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1585
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\">Yet Another Stars "
+"Rating</a>. Please <a href=\"%s\" target=\"_blank\">rate it</a> 5 stars on "
+"<a href=\"%s\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+
+#: ../lib/yasr-settings-functions.php:1630
+msgid "No previous Gd Star Rating installation was found"
+msgstr "Ingen tidligere installasjon av Gd-stjernevurdering ble funnet"
+
+#: ../lib/yasr-db-functions.php:426 ../lib/yasr-db-functions.php:569
+msgid "No recenet votes yet"
+msgstr "Ingen nylige vurderinger enda"
+
+#: ../lib/yasr-db-functions.php:441 ../lib/yasr-ajax-functions.php:833
+msgid "anonymous"
+msgstr "anonym"
+
+#: ../lib/yasr-db-functions.php:450
+#, php-format
+msgid "Vote %d from %s on "
+msgstr ""
+
+#: ../lib/yasr-db-functions.php:466 ../lib/yasr-db-functions.php:599
+#: ../lib/yasr-ajax-functions.php:858 ../lib/yasr-ajax-functions.php:1007
+msgid "Ip address"
+msgstr "IP-adresse"
+
+#: ../lib/yasr-db-functions.php:487 ../lib/yasr-db-functions.php:620
+#: ../lib/yasr-ajax-functions.php:876 ../lib/yasr-ajax-functions.php:1026
+msgid "Pages"
+msgstr "Sider"
+
+#: ../lib/yasr-db-functions.php:583 ../lib/yasr-ajax-functions.php:991
+#, fuzzy, php-format
+msgid "You rated %s on "
+msgstr "Du ga karakteren"
+
+#: ../lib/yasr-functions.php:57
+#, fuzzy
+msgid "bad, poor, ok, good, super"
+msgstr "'Dårlig', 'Ikke bra', 'OK', 'Bra', 'Helt super'"
+
+#: ../lib/yasr-functions.php:134 ../lib/yasr-functions.php:135
+msgid "Yet Another Stars Rating: Settings"
+msgstr "Yet Another Stars Rating: Innstillinger"
+
+#: ../lib/yasr-functions.php:184
+msgid "Yet Another Stars Rating: Multiple set"
+msgstr "Yet Another Stars Rating: Multisett"
+
+#: ../lib/yasr-functions.php:195
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "Du har ikke tillatelse til å legge inn helhetsvurdering"
+
+#: ../lib/yasr-functions.php:205
+#, fuzzy
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "Du har ikke tillatelse til å legge inn multisett"
+
+#: ../lib/yasr-functions.php:660
+msgid "Product, Place, Recipe, BlogPosting"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:109
+msgid "You've rated it "
+msgstr "Du ga karakteren"
+
+#: ../lib/yasr-ajax-functions.php:113
+msgid "You've reset the vote"
+msgstr "Du har tilbakestilt vurderingen"
+
+#: ../lib/yasr-ajax-functions.php:201
+#, fuzzy
+msgid "Type Saved"
+msgstr "Vurdering lagret"
+
+#: ../lib/yasr-ajax-functions.php:204
+msgid ""
+"There was an error while trying to insert the review type. Please report it"
+msgstr ""
+"En feil oppsto mens vi forsøkte å legge inn vurderingstypen. Vennligst "
+"rapporter dette."
+
+#: ../lib/yasr-ajax-functions.php:243
+msgid "Choose a vote for each element"
+msgstr "Velg en karakter for hvert element"
+
+#: ../lib/yasr-ajax-functions.php:306 ../lib/yasr-ajax-functions.php:350
+#, fuzzy
+msgid "If you want to insert this multiset, paste this shortcode "
+msgstr "Velg et multisett du ønsker å legge inn"
+
+#: ../lib/yasr-ajax-functions.php:308 ../lib/yasr-ajax-functions.php:352
+msgid ""
+"If, instead, you want allow your visitor to vote on this multiset, use this "
+"shortcode"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:317
+msgid "Choose a vote for every element"
+msgstr "Velg en karakter for hvert element"
+
+#: ../lib/yasr-ajax-functions.php:493
+msgid "Main"
+msgstr "Hoved"
+
+#: ../lib/yasr-ajax-functions.php:494
+msgid "Charts"
+msgstr "Diagrammer"
+
+#: ../lib/yasr-ajax-functions.php:497
+msgid "Read the doc"
+msgstr "Les dokumentet"
+
+#: ../lib/yasr-ajax-functions.php:506
+msgid "Overall Rating / Review"
+msgstr "Helhetsvurdering / omtale"
+
+#: ../lib/yasr-ajax-functions.php:508
+msgid "Insert Overall Rating"
+msgstr "Legg inn helhetsvurdering"
+
+#: ../lib/yasr-ajax-functions.php:509
+msgid "Insert Overall Rating / Review for this post"
+msgstr "Legg inn helhetsvurdering/omtale for dette innlegget"
+
+#: ../lib/yasr-ajax-functions.php:512 ../lib/yasr-ajax-functions.php:530
+msgid "Choose Size"
+msgstr "Velg størrelse"
+
+#: ../lib/yasr-ajax-functions.php:526
+msgid "Insert Visitor Votes"
+msgstr "Legg inn besøkendes vurderinger"
+
+#: ../lib/yasr-ajax-functions.php:527
+msgid "Insert the ability for your visitor to vote"
+msgstr "Legg inn muligheten for besøkende å foreta en vurdering"
+
+#: ../lib/yasr-ajax-functions.php:544
+msgid "If you want to insert a Multi Set, pick one:"
+msgstr "Velg et multisett du ønsker å legge inn"
+
+#: ../lib/yasr-ajax-functions.php:550
+msgid "Choose wich set you want to insert."
+msgstr "Velg hvilket multisett du vil legge inn."
+
+#: ../lib/yasr-ajax-functions.php:552 ../lib/yasr-ajax-functions.php:569
+msgid "Readonly?"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:554 ../lib/yasr-ajax-functions.php:570
+msgid ""
+"If Readonly is checked, only you can insert the votes (in the box above the "
+"editor)"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:555
+#, fuzzy
+msgid "Insert Multi Set"
+msgstr "Legg inn multisett"
+
+#: ../lib/yasr-ajax-functions.php:564
+msgid "Insert Multiset:"
+msgstr "Lett inn multisett:"
+
+#: ../lib/yasr-ajax-functions.php:567
+msgid "Insert Multiple Set"
+msgstr "Legg inn multisett"
+
+#: ../lib/yasr-ajax-functions.php:585
+msgid "Ranking reviews"
+msgstr "Rangeringsvurdering"
+
+#: ../lib/yasr-ajax-functions.php:586
+msgid "Insert Ranking reviews"
+msgstr "Legg inn rangeringsvurderinger"
+
+#: ../lib/yasr-ajax-functions.php:587
+msgid "Insert Top 10 ranking for [yasr_overall_rating] shortcode"
+msgstr "Legg inn de 10 høyest rangerte for kodesnutten [yasr_overall_rating]"
+
+#: ../lib/yasr-ajax-functions.php:591
+msgid "Users' ranking"
+msgstr "Brukernes rangering"
+
+#: ../lib/yasr-ajax-functions.php:592
+msgid "Insert Users ranking"
+msgstr "Legg inn brukernes rangering"
+
+#: ../lib/yasr-ajax-functions.php:593
+msgid "Insert Top 10 ranking for [yasr_visitor_votes] shortcode"
+msgstr "Legg inn de 10 høyest rangerte for kodesnutten [yasr_visitor_votes] "
+
+#: ../lib/yasr-ajax-functions.php:597
+msgid "Most active reviewers"
+msgstr "Mest aktivere anmeldere"
+
+#: ../lib/yasr-ajax-functions.php:598
+msgid "Insert Most Active Reviewers"
+msgstr "Legg inn mest aktive anmeldere"
+
+#: ../lib/yasr-ajax-functions.php:599
+msgid "Insert Top 5 active reviewers"
+msgstr "Legg inn de 5 mest aktive anmelderne"
+
+#: ../lib/yasr-ajax-functions.php:603
+msgid "Most Active Users"
+msgstr "Mest aktive brukere"
+
+#: ../lib/yasr-ajax-functions.php:604
+msgid "Insert Most Active Users"
+msgstr "Legg inn mest aktive brukere"
+
+#: ../lib/yasr-ajax-functions.php:605
+msgid "Insert Top 10 voters [yasr_visitor_votes] shortcode"
+msgstr ""
+"Legg inn kodesnutten [yasr_visitor_votes] for de 10 mest aktive anmelderne "
+
+#: ../lib/yasr-ajax-functions.php:678
+msgid "Reviews and Visitor Votes have been successfull imported."
+msgstr "Omtaler og besøkendes vurderinger har blitt importert."
+
+#: ../lib/yasr-ajax-functions.php:684
+msgid ""
+"Step2: I will check if you used Multiple Sets and if so I will import them. "
+"THIS MAY TAKE A WHILE!"
+msgstr ""
+"Steg 2: Jeg vil sjekke om du brukte multisett, og jeg vil i så fall "
+"importere dem. Dette kan ta litt tid."
+
+#: ../lib/yasr-ajax-functions.php:686
+msgid "Proceed Step 2"
+msgstr "Fortsett til steg 2"
+
+#: ../lib/yasr-ajax-functions.php:693
+msgid "Something goes wrong! Refresh the page and try again!"
+msgstr "Noe går galt. Oppdater siden (F5) og forsøk igjen."
+
+#: ../lib/yasr-ajax-functions.php:722
+msgid "I've found Multiple Set! Importing..."
+msgstr "Jeg fant multisett. Importerer...."
+
+#: ../lib/yasr-ajax-functions.php:731
+msgid "Multi Set's name has been successfull imported."
+msgstr "Multisettets navn har blitt importert."
+
+#: ../lib/yasr-ajax-functions.php:733
+msgid "Now I'm going to import Multi Set data"
+msgstr "Nå skal jeg importere multisettets data"
+
+#: ../lib/yasr-ajax-functions.php:744
+msgid "All votes has been successfull imported."
+msgstr "Alle vurderinger har blitt importert."
+
+#: ../lib/yasr-ajax-functions.php:746
+msgid "Done"
+msgstr "Fullført"
+
+#: ../lib/yasr-ajax-functions.php:751
+msgid "I've found Multiple Set's votes but I couldn't insert into db"
+msgstr ""
+"Jeg har funnet vurderinger for multisettet, men kunne ikke legge dem inn i "
+"databasen"
+
+#: ../lib/yasr-ajax-functions.php:759
+msgid "I've found Multi Set but with no data"
+msgstr "Jeg har funnet multisett, men de har ingen data"
+
+#: ../lib/yasr-ajax-functions.php:768
+msgid "I've found Multi Sets names but I couldn't insert into db"
+msgstr ""
+"Jeg har funnet multisett-navn, men jeg kunne ikke legge dem inn i databasen"
+
+#: ../lib/yasr-ajax-functions.php:776
+msgid "Multisets were not found. Imported is done!"
+msgstr "Multisett ble ikke funnet. Importeringen har blitt fullført."
+
+#: ../lib/yasr-ajax-functions.php:820 ../lib/yasr-ajax-functions.php:979
+msgid "No Recenet votes yet"
+msgstr "Ingen nylige vurderinger enda"
+
+#: ../lib/yasr-ajax-functions.php:842
+#, php-format
+msgid "Vote %d from %s on"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:1191 ../lib/yasr-ajax-functions.php:1349
+msgid "Error: you can't vote 0"
+msgstr "Feil. Du kan ikke gi karakteren 0."
+
+#: ../lib/yasr-ajax-functions.php:1300 ../lib/yasr-ajax-functions.php:1308
+#, fuzzy
+msgid "Average:"
+msgstr "Gjennomsnitt:"
+
+#: ../lib/yasr-ajax-functions.php:1301 ../lib/yasr-ajax-functions.php:1309
+msgid "Vote Saved"
+msgstr "Vurdering lagret"
+
+#: ../lib/yasr-ajax-functions.php:1450
+msgid "Vote updated"
+msgstr "Vurdering oppdatert"
+
+#: ../lib/yasr-ajax-functions.php:1595
+#, fuzzy
+msgid "Rating saved!"
+msgstr "Instillinger lagret"
+
+#: ../lib/yasr-ajax-functions.php:1601
+msgid "Rating not saved. Please Try again"
+msgstr ""
+
+#: ../lib/yasr-ajax-functions.php:1694
+msgid "stars"
+msgstr "stjerner"
+
+#: ../lib/yasr-ajax-functions.php:1699
+#, fuzzy
+msgid "star"
+msgstr "stjerner"
+
+#~ msgid "Styles"
+#~ msgstr "Stiler"
+
+#~ msgid "Pro Features!"
+#~ msgstr "Pro-funksjoner!"
+
+#~ msgid "Looking for more features?"
+#~ msgstr "Ser du etter flere funksjoner?"
+
+#~ msgid "Upgrade to yasr pro!"
+#~ msgstr "Oppgrader til YASR pro!"
+
+#~ msgid "Unlimited ratings and votes"
+#~ msgstr "Ubegrenset antall brukervurderinger og stemmer"
+
+#~ msgid "Works with shortcodes"
+#~ msgstr "Fungerer med kortkoder"
+
+#~ msgid "Multi Set Support"
+#~ msgstr "Støtte for multisett"
+
+#~ msgid "Logs and stats for visitors votes"
+#~ msgstr "Logger og statistikker for besøkendes stemmer"
+
+#~ msgid "Localization (.po and .mo files included)"
+#~ msgstr "Lokalisering (.po- og .mo-filer inkludert)"
+
+#~ msgid "Rankings for reviews, votes and users"
+#~ msgstr "Rangeringer for omtaler, stemmer og brukere"
+
+#~ msgid "Rankings Customization"
+#~ msgstr "Egendefinert rangering"
+
+#~ msgid "Stars Customization"
+#~ msgstr "Egendefinerte stjerner"
+
+#~ msgid "Size Only"
+#~ msgstr "Kun størrelse"
+
+#~ msgid "Users can review in comments"
+#~ msgstr "Brukere kan gi sin vurdering i kommentarfeltet"
+
+#~ msgid "Not avaible yet"
+#~ msgstr "Ikke tilgjengelig enda"
+
+#, fuzzy
+#~ msgid "reviewed by"
+#~ msgstr " ble vurdert av "
+
+#~ msgid " on "
+#~ msgstr " "
+
+#, fuzzy
+#~ msgid "reviewed on"
+#~ msgstr " ble vurdert av "
+
+#, fuzzy
+#~ msgid "rated"
+#~ msgstr ", og fikk karakteren   "
+
+#, fuzzy
+#~ msgid "of"
+#~ msgstr " av"
+
+#~ msgid " written by "
+#~ msgstr " skrevet av"
+
+#~ msgid " average rating "
+#~ msgstr "  vurdering"
+
+#~ msgid " user ratings"
+#~ msgstr " brukervurderinger"
+
+#~ msgid "Donations"
+#~ msgstr "Donasjoner"
+
+#~ msgid ""
+#~ "If you have found this plugin useful, please consider making a donation "
+#~ "to help support future development. Your support will be much "
+#~ "appreciated. "
+#~ msgstr ""
+#~ "Dersom du synes denne utvidelsen er hjelpsom, vennligst vurder å gi en "
+#~ "donasjon for å hjelpe oss med fremtidig utvikling. Vi setter veldig stor "
+#~ "pris på støtten din."
+
+#~ msgid "Thank you!"
+#~ msgstr "Tusen takk!"
+
+#~ msgid "Follow YASR official site!"
+#~ msgstr "Følg YASRs offisielle side"
+
+#~ msgid ""
+#~ "Seems like you've imported gd star rating in the past, but then deleted "
+#~ "the logs table. For now, you can't enable statistics"
+#~ msgstr ""
+#~ "Det ser ut som at du har importert gd-stjernevurdering tidligere, men at "
+#~ "tabellen med loggene ble slettet. Du kan for øyeblikket ikke aktivere "
+#~ "statistikker."
+
+#~ msgid "Visitors can vote on Multi Set"
+#~ msgstr "Besøkende kan stemme på multisett"
+
+#~ msgid "YASR"
+#~ msgstr "YASR"
+
+#~ msgid "Overall Rating"
+#~ msgstr "Helhetsvurdering"
+
+#~ msgid "Remember to insert this shortcode"
+#~ msgstr "Husk å legge inn denne kodesnutten, "
+
+#~ msgid "where you want to display this multi set"
+#~ msgstr ", der hvor du ønsker at dette multisettet skal vises"
+
+#~ msgid "Insert multiple set in this post ?"
+#~ msgstr "Legg inn multisett i dette innlegget?"
+
+#~ msgid "Average rating"
+#~ msgstr "Gjennomsnittlig vurdering:"
+
+#~ msgid "Average "
+#~ msgstr "Gjennomsnitt:"
+
+#~ msgid "You've already voted this article"
+#~ msgstr "Du har allerede gitt din vurdering."
