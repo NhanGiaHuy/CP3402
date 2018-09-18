@@ -1,31 +1,8 @@
 <!DOCTYPE html>
 <!-- saved from url=(0112)https://learn.jcu.edu.au/bbcswebdav/pid-3328929-dt-content-rid-10978054_1/courses/18-CP3402-SIN-INT-SP52/a2.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-  <title>Group ?? - A2 Details for CP3402</title>
   
-  <style type="text/css">
-    body {
-      font-family: Arial, sans-serif;
-      margin-left: 3em;
-    }
-
-    h1,
-    h2 {
-      margin-left: -1em;
-    }
-
-    h2 {
-      margin-top: 1.5em;
-      margin-bottom: 0.5em;
-    }
-  </style>
-</head>
-
-<body>
-  <p>
-    Note: replace the ?? with your own content, and complete all of the details.
-  </p>
-  <h1>CP3402 - Assignment 2 - Group ??</h1>
+  <h1>CP3402 - Assignment 2 - Group 1 - Singapore - SP52 2018</h1>
   <h2>Names</h2>
   <ul>
     <li>Name 1 - <a href="https://www.linkedin.com/in/quang-nguyen-a44122171/" target="_blank">https://www.linkedin.com/in/quang-nguyen-a44122171/</a> (GitHub username: danhquang14)</li>
